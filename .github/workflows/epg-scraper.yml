@@ -24,7 +24,7 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install httpx bs4 lxml
 
       - name: Run Python Script
         run: |
