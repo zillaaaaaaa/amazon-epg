@@ -1,12 +1,4 @@
 {
-  "Amazon.US.beINSPORTS": {
-    "name": "beIN SPORTS",
-    "id": "amzn1.dv.gti.145396e8-17c3-4fd4-a443-13479d7a5c72"
-  },
-  "Amazon.US.beINSPORTSenEspanol": {
-    "name": "beIN SPORTS en Español",
-    "id": "amzn1.dv.gti.ced1e20d-2e30-4204-86c2-c0fb8b960b7d"
-  },
   "Amazon.US.CinemaxAction": {
     "name": "Cinemax Action",
     "id": "amzn1.dv.gti.f4ba51de-f362-f0da-6b2a-ead84c0f2eda"
@@ -47,18 +39,6 @@
     "name": "LiveNOW by FOX",
     "id": "amzn1.dv.gti.64039d4c-c753-44fc-8f3f-6af8113e4685"
   },
-  "Amazon.US.CNNOriginals": {
-    "name": "CNN Originals",
-    "id": "amzn1.dv.gti.ddcc09e4-3f47-45cb-a61b-57c18bad0210"
-  },
-  "Amazon.US.CNNStream": {
-    "name": "CNN Stream",
-    "id": "amzn1.dv.gti.bc19c93a-298b-4485-84d6-3bb5ab3b80ce"
-  },
-  "Amazon.US.CNNInternational": {
-    "name": "CNN International",
-    "id": "amzn1.dv.gti.ab66ad81-f5c6-4fa3-8d24-bc8290bc41cf"
-  },
   "Amazon.US.MGMPlusMARQUEE": {
     "name": "MGM+ MARQUEE",
     "id": "amzn1.dv.gti.46bb6fa7-cbcf-c9c4-b8e7-633673ed528d"
@@ -98,6 +78,26 @@
   "Amazon.US.AMCPlus": {
     "name": "AMC +",
     "id": "amzn1.dv.gti.baba2927-2767-5256-8eca-fcfd2ccc7959"
+  },
+  "Amazon.US.CNNOriginals": {
+    "name": "CNN Originals",
+    "id": "amzn1.dv.gti.ddcc09e4-3f47-45cb-a61b-57c18bad0210"
+  },
+  "Amazon.US.CNNStream": {
+    "name": "CNN Stream",
+    "id": "amzn1.dv.gti.bc19c93a-298b-4485-84d6-3bb5ab3b80ce"
+  },
+  "Amazon.US.CNNInternational": {
+    "name": "CNN International",
+    "id": "amzn1.dv.gti.ab66ad81-f5c6-4fa3-8d24-bc8290bc41cf"
+  },
+  "Amazon.US.beINSPORTS": {
+    "name": "beIN SPORTS",
+    "id": "amzn1.dv.gti.145396e8-17c3-4fd4-a443-13479d7a5c72"
+  },
+  "Amazon.US.beINSPORTSenEspanol": {
+    "name": "beIN SPORTS en Español",
+    "id": "amzn1.dv.gti.ced1e20d-2e30-4204-86c2-c0fb8b960b7d"
   },
   "Amazon.US.France24EN": {
     "name": "France24 EN",
@@ -163,193 +163,121 @@
     "name": "Showtime West",
     "id": "amzn1.dv.gti.4aba520c-dc9e-0d00-b782-b51d12895396"
   },
-  "Amazon.US.SpongeBobSquarePantsUniverse": {
-    "name": "SpongeBob SquarePants Universe",
-    "id": "amzn1.dv.gti.9c0efa82-7702-487b-9cb1-1bd9a1232772"
+  "Amazon.US.FOX11LosAngeles": {
+    "name": "FOX 11 Los Angeles",
+    "id": "amzn1.dv.gti.5df157b2-5726-4fec-ba44-54dec4c41ea3"
   },
-  "Amazon.US.SouthPark": {
-    "name": "South Park",
-    "id": "amzn1.dv.gti.8e6638f5-a79e-40df-aea0-b8cc96ca0fe8"
+  "Amazon.US.Fox11Plus": {
+    "name": "Fox 11 Plus",
+    "id": "amzn1.dv.gti.971153a8-3362-4e9e-bc8b-8bb7bcaec16a"
   },
-  "Amazon.US.PAWPatrol": {
-    "name": "PAW Patrol",
-    "id": "amzn1.dv.gti.aa8b90a4-de9e-4b1c-b42d-d8d79a06b1ac"
+  "Amazon.US.FOXNewsChannel": {
+    "name": "FOX News Channel",
+    "id": "amzn1.dv.gti.f1379b52-28f0-412a-94fb-bf1a29368b73"
   },
-  "Amazon.US.CSI": {
-    "name": "CSI",
-    "id": "amzn1.dv.gti.3c6a963f-ec19-4154-ac7a-bb50981a333a"
+  "Amazon.US.FS1": {
+    "name": "FS1",
+    "id": "amzn1.dv.gti.a04f1d3d-bcae-4d98-b22d-3f4b0775a1f6"
   },
-  "Amazon.US.RuPaulsDragRace": {
-    "name": "RuPaul's Drag Race",
-    "id": "amzn1.dv.gti.f0cb6533-112b-4a72-9e26-7333dfe4d8a5"
+  "Amazon.US.FS2": {
+    "name": "FS2",
+    "id": "amzn1.dv.gti.01e496d3-f073-471a-a43b-0b43107fce2b"
   },
-  "Amazon.US.Survivor": {
-    "name": "Survivor",
-    "id": "amzn1.dv.gti.e3195f49-9fe4-40fb-ab90-3d8282592b75"
+  "Amazon.US.FOXBusiness": {
+    "name": "FOX Business",
+    "id": "amzn1.dv.gti.b87fffd8-7995-4b6d-b0b6-83326bf1b47a"
   },
-  "Amazon.US.StarTrek": {
-    "name": "Star Trek",
-    "id": "amzn1.dv.gti.8d9a97f8-c4df-40b0-990f-4abd7be078f3"
+  "Amazon.US.FOXWeather": {
+    "name": "FOX Weather",
+    "id": "amzn1.dv.gti.907c1249-2309-4e13-afdf-1766574d2e53"
   },
-  "Amazon.US.RealityTVShores": {
-    "name": "Reality TV: Shores",
-    "id": "amzn1.dv.gti.55ea4887-9412-4cb5-a336-df66db23f836"
+  "Amazon.US.BigTenNetwork": {
+    "name": "Big Ten Network",
+    "id": "amzn1.dv.gti.b85a224a-7886-4cca-9b8b-bff2390ba73b"
   },
-  "Amazon.US.TheChallenge": {
-    "name": "The Challenge",
-    "id": "amzn1.dv.gti.36f53de7-cab4-47b6-8e64-4d29519fd7e4"
+  "Amazon.US.FOXDeportes": {
+    "name": "FOX Deportes",
+    "id": "amzn1.dv.gti.53e8af09-651e-4789-af86-1366914b6810"
   },
-  "Amazon.US.AnimationFavorites": {
-    "name": "Animation Favorites",
-    "id": "amzn1.dv.gti.867553c5-b72d-4c46-9cd7-97c5f6b88b6e"
+  "Amazon.US.FOXSoul": {
+    "name": "FOX Soul",
+    "id": "amzn1.dv.gti.1cd8e4e2-5b0f-457a-a2ec-c030d18ffd19"
   },
-  "Amazon.US.BlackVoices": {
-    "name": "Black Voices",
-    "id": "amzn1.dv.gti.d0322d8c-f507-41fa-9e2e-02221b540860"
+  "Amazon.US.TheTMZChannel": {
+    "name": "The TMZ Channel",
+    "id": "amzn1.dv.gti.23dac253-43f8-4bf4-8892-147723a72024"
   },
-  "Amazon.US.KidsAndFamilyFun": {
-    "name": "Kids & Family Fun",
-    "id": "amzn1.dv.gti.048d2dbc-c9f8-449c-b9a6-66b97acc0f38"
+  "Amazon.US.TheMaskedSinger": {
+    "name": "The Masked Singer",
+    "id": "amzn1.dv.gti.a9ddb214-9841-4017-91ff-8580aaec6855"
   },
-  "Amazon.US.Movies": {
-    "name": "Movies",
-    "id": "amzn1.dv.gti.8dc88c98-7f5a-4567-a1a9-b254d1abce84"
+  "Amazon.US.FOXLocalLosAngeles": {
+    "name": "FOX Local Los Angeles",
+    "id": "amzn1.dv.gti.e90e9e92-71ac-4285-bc37-34ee3f067e6c"
   },
-  "Amazon.US.80sSitcom": {
-    "name": "80s Sitcom",
-    "id": "amzn1.dv.gti.50e8c2e0-65d8-433a-9d8d-985e911e51af"
+  "Amazon.US.FOXLocalDetroit": {
+    "name": "FOX Local Detroit",
+    "id": "amzn1.dv.gti.d446d8c8-af29-4b4b-99a6-2df616f7fbb7"
   },
-  "Amazon.US.90sSitcom": {
-    "name": "90s Sitcom",
-    "id": "amzn1.dv.gti.0ff8b99a-4975-49a8-ad0e-05af0baa72cd"
+  "Amazon.US.FOXLocalDallasFortWorth": {
+    "name": "FOX Local Dallas Fort Worth",
+    "id": "amzn1.dv.gti.064d8696-a191-43ac-9a73-610798d9e99d"
   },
-  "Amazon.US.247Laughs": {
-    "name": "24/7 Laughs",
-    "id": "amzn1.dv.gti.c9ff0182-bb8d-4981-9aab-a6d1ff865c6b"
+  "Amazon.US.FOXLocalAtlanta": {
+    "name": "FOX Local Atlanta",
+    "id": "amzn1.dv.gti.861a9a1f-deb8-4824-a02d-b712eb42af86"
   },
-  "Amazon.US.48hours": {
-    "name": "48 hours",
-    "id": "amzn1.dv.gti.2509a215-6190-4dbc-83ae-9d974531f2c7"
+  "Amazon.US.FOXLocalSanFrancisco": {
+    "name": "FOX Local San Francisco",
+    "id": "amzn1.dv.gti.f1d016a3-1589-4d96-a433-dbc8934b0173"
   },
-  "Amazon.US.PreschoolCorner": {
-    "name": "Preschool Corner",
-    "id": "amzn1.dv.gti.ebcf5bd7-3c87-4453-97a7-dd83cec949b3"
+  "Amazon.US.FOXLocalOrlando": {
+    "name": "FOX Local Orlando",
+    "id": "amzn1.dv.gti.187a6fe4-7af6-4294-876f-7f2fa09bbcfc"
   },
-  "Amazon.US.CrimeAndJustice": {
-    "name": "Crime & Justice",
-    "id": "amzn1.dv.gti.e3ef232a-9c53-437c-b49a-efd4b9f18e43"
+  "Amazon.US.FOXLocalChicago": {
+    "name": "FOX Local Chicago",
+    "id": "amzn1.dv.gti.aff58d1a-c822-4fe5-b5d8-6ee46a863c14"
   },
-  "Amazon.US.TVClassics": {
-    "name": "TV Classics",
-    "id": "amzn1.dv.gti.4d771e25-5695-4042-bce3-755d6004c976"
+  "Amazon.US.FOXLocalPhiladelphia": {
+    "name": "FOX Local Philadelphia",
+    "id": "amzn1.dv.gti.f974b8c9-79ad-4896-b0f3-947ee1893b97"
   },
-  "Amazon.US.RealityTVCompetition": {
-    "name": "Reality TV: Competition",
-    "id": "amzn1.dv.gti.b09c3c0e-20c7-4658-9162-19b67054ac77"
+  "Amazon.US.FOXLOCALMinnesota": {
+    "name": "FOX LOCAL Minnesota",
+    "id": "amzn1.dv.gti.795cc149-61e6-44f7-8b7b-f42e397d7f7e"
   },
-  "Amazon.US.CBSNews247": {
-    "name": "CBS News 24/7",
-    "id": "amzn1.dv.gti.10b8a104-4ecc-13a8-3511-9c2ec25b7438"
+  "Amazon.US.FOXLocalAustin": {
+    "name": "FOX Local Austin",
+    "id": "amzn1.dv.gti.44b08143-fdd1-4976-a27f-3740553618ba"
   },
-  "Amazon.US.AllDayDrama": {
-    "name": "All Day Drama",
-    "id": "amzn1.dv.gti.5bf980e9-0c70-4b6e-a1b6-35922371039e"
+  "Amazon.US.FOXLocalMilwaukee": {
+    "name": "FOX Local Milwaukee",
+    "id": "amzn1.dv.gti.93bab040-596c-46d9-988e-f4efcb03edc6"
   },
-  "Amazon.US.HistoryAndUndiscovered": {
-    "name": "History & Undiscovered",
-    "id": "amzn1.dv.gti.030ef578-86f0-4fc7-81ce-745650c374bc"
+  "Amazon.US.FOXLocalHouston": {
+    "name": "FOX Local Houston",
+    "id": "amzn1.dv.gti.882b4c97-996e-437e-8da6-fdc470240a3a"
   },
-  "Amazon.US.NostalgicHits": {
-    "name": "Nostalgic Hits",
-    "id": "amzn1.dv.gti.8e71f197-7fd9-4944-83c6-6605da690b91"
+  "Amazon.US.FOXLocalPhoenix": {
+    "name": "FOX Local Phoenix",
+    "id": "amzn1.dv.gti.27ad26a8-1760-463a-8358-63e0eb7a4065"
   },
-  "Amazon.US.CBSSportsHQ": {
-    "name": "CBS Sports HQ",
-    "id": "amzn1.dv.gti.28ba2621-664b-b1f1-3cc4-cf82ec88f652"
+  "Amazon.US.FOXLocalWashingtonDC": {
+    "name": "FOX Local Washington DC",
+    "id": "amzn1.dv.gti.4c6250dd-6b3b-4e0f-a87e-c28e7053ba1a"
   },
-  "Amazon.US.60Minutes": {
-    "name": "60 Minutes",
-    "id": "amzn1.dv.gti.32f32348-684a-4666-8ec8-5975d6b49967"
+  "Amazon.US.FOXLocalSeattle": {
+    "name": "FOX Local Seattle",
+    "id": "amzn1.dv.gti.4bfdd32e-3ea9-4d40-b1dc-0a2758418676"
   },
-  "Amazon.US.InsideEdition": {
-    "name": "Inside Edition",
-    "id": "amzn1.dv.gti.95745a17-440b-4e5d-9779-ccd6f5a01d3a"
+  "Amazon.US.FOXLocalNewYork": {
+    "name": "FOX Local New York",
+    "id": "amzn1.dv.gti.e1e55c10-f0e9-49f6-9a42-94c87f42b796"
   },
-  "Amazon.US.UEFAChampionsLeague": {
-    "name": "UEFA Champions League",
-    "id": "amzn1.dv.gti.c72c8f26-e066-4108-8ec3-aa2c0a888867"
-  },
-  "Amazon.US.CBSSportsGolazoNetwork": {
-    "name": "CBS Sports Golazo Network",
-    "id": "amzn1.dv.gti.a43b91c9-808a-44ac-a19b-780788b95b06"
-  },
-  "Amazon.US.ET": {
-    "name": "ET",
-    "id": "amzn1.dv.gti.8aba26b5-e4b6-4486-e504-b23623a0bd0f"
-  },
-  "Amazon.US.CBSBigBrotherFeed1": {
-    "name": "CBS Big Brother Feed 1",
-    "id": "amzn1.dv.gti.eeb8b009-dec4-5f6b-b250-b38da3de364a"
-  },
-  "Amazon.US.CBSBigBrotherFeed2": {
-    "name": "CBS Big Brother Feed 2",
-    "id": "amzn1.dv.gti.b0b8b008-d716-93da-705c-2382b0cc8700"
-  },
-  "Amazon.US.CBSBigBrotherFeed3": {
-    "name": "CBS Big Brother Feed 3",
-    "id": "amzn1.dv.gti.c6b8b006-0b21-f1f3-5dde-3be6e45a6c27"
-  },
-  "Amazon.US.CBSBigBrotherFeed4": {
-    "name": "CBS Big Brother Feed 4",
-    "id": "amzn1.dv.gti.8eb8b005-b5c1-7fa5-2f74-9e40359413fe"
-  },
-  "Amazon.US.CBSBigBrotherFeed5": {
-    "name": "CBS Big Brother Feed 5",
-    "id": "amzn1.dv.gti.dcb8b004-b594-51b2-c3af-fb81866ca6ad"
-  },
-  "Amazon.US.CBSNewsNewYork": {
-    "name": "CBS News New York",
-    "id": "amzn1.dv.gti.affc6488-7c55-4cf1-bc9d-d12b3a598f6c"
-  },
-  "Amazon.US.CBSNewsLosAngeles": {
-    "name": "CBS News Los Angeles",
-    "id": "amzn1.dv.gti.bbc47c6d-a02a-47d3-b0ed-9975979903fd"
-  },
-  "Amazon.US.CBSNewsChicago": {
-    "name": "CBS News Chicago",
-    "id": "amzn1.dv.gti.6c159da6-c0b1-4d4b-bdcd-bad624947a92"
-  },
-  "Amazon.US.CBSNewsPhiladelphia": {
-    "name": "CBS News Philadelphia",
-    "id": "amzn1.dv.gti.a5c51878-ad8a-4655-a8bd-714cc84fee9e"
-  },
-  "Amazon.US.CBSNewsBoston": {
-    "name": "CBS News Boston",
-    "id": "amzn1.dv.gti.99bf9bb9-352e-4598-94d7-327bc286b41c"
-  },
-  "Amazon.US.CBSNewsBayArea": {
-    "name": "CBS News Bay Area",
-    "id": "amzn1.dv.gti.f78a3815-e04d-4586-8ea0-8707bdc3dfb8"
-  },
-  "Amazon.US.CBSNewsDetroit": {
-    "name": "CBS News Detroit",
-    "id": "amzn1.dv.gti.0176a824-17d2-4a8a-b3c6-2405b9fd9989"
-  },
-  "Amazon.US.CBSNewsPittsburgh": {
-    "name": "CBS News Pittsburgh",
-    "id": "amzn1.dv.gti.0bd95565-fa04-4c14-b8bc-fcc0ab221e19"
-  },
-  "Amazon.US.CBSNewsTexas": {
-    "name": "CBS News Texas",
-    "id": "amzn1.dv.gti.a9ad2ca0-90fe-4f39-b96f-a24f4cd1f609"
-  },
-  "Amazon.US.CBSNewsMinnesota": {
-    "name": "CBS News Minnesota",
-    "id": "amzn1.dv.gti.0a801ae2-07db-40b4-a79f-60a8bc32cc05"
-  },
-  "Amazon.US.CBSNewsColorado": {
-    "name": "CBS News Colorado",
-    "id": "amzn1.dv.gti.d0fb83fd-08db-43a1-a00a-ef4a77368fd4"
+  "Amazon.US.FOXLocalTampaBay": {
+    "name": "FOX Local Tampa Bay",
+    "id": "amzn1.dv.gti.85b32b65-3711-4b0e-b822-6faf95c81ad5"
   },
   "Amazon.US.pixl": {
     "name": "pixl",
@@ -595,121 +523,193 @@
     "name": "Dateline en Español",
     "id": "amzn1.dv.gti.0ae2cfa4-5558-4b83-8ce2-88bef6aa4032"
   },
-  "Amazon.US.FOX11LosAngeles": {
-    "name": "FOX 11 Los Angeles",
-    "id": "amzn1.dv.gti.5df157b2-5726-4fec-ba44-54dec4c41ea3"
+  "Amazon.US.SpongeBobSquarePantsUniverse": {
+    "name": "SpongeBob SquarePants Universe",
+    "id": "amzn1.dv.gti.9c0efa82-7702-487b-9cb1-1bd9a1232772"
   },
-  "Amazon.US.Fox11Plus": {
-    "name": "Fox 11 Plus",
-    "id": "amzn1.dv.gti.971153a8-3362-4e9e-bc8b-8bb7bcaec16a"
+  "Amazon.US.SouthPark": {
+    "name": "South Park",
+    "id": "amzn1.dv.gti.8e6638f5-a79e-40df-aea0-b8cc96ca0fe8"
   },
-  "Amazon.US.FOXNewsChannel": {
-    "name": "FOX News Channel",
-    "id": "amzn1.dv.gti.f1379b52-28f0-412a-94fb-bf1a29368b73"
+  "Amazon.US.PAWPatrol": {
+    "name": "PAW Patrol",
+    "id": "amzn1.dv.gti.aa8b90a4-de9e-4b1c-b42d-d8d79a06b1ac"
   },
-  "Amazon.US.FS1": {
-    "name": "FS1",
-    "id": "amzn1.dv.gti.a04f1d3d-bcae-4d98-b22d-3f4b0775a1f6"
+  "Amazon.US.CSI": {
+    "name": "CSI",
+    "id": "amzn1.dv.gti.3c6a963f-ec19-4154-ac7a-bb50981a333a"
   },
-  "Amazon.US.FS2": {
-    "name": "FS2",
-    "id": "amzn1.dv.gti.01e496d3-f073-471a-a43b-0b43107fce2b"
+  "Amazon.US.RuPaulsDragRace": {
+    "name": "RuPaul's Drag Race",
+    "id": "amzn1.dv.gti.f0cb6533-112b-4a72-9e26-7333dfe4d8a5"
   },
-  "Amazon.US.FOXBusiness": {
-    "name": "FOX Business",
-    "id": "amzn1.dv.gti.b87fffd8-7995-4b6d-b0b6-83326bf1b47a"
+  "Amazon.US.Survivor": {
+    "name": "Survivor",
+    "id": "amzn1.dv.gti.e3195f49-9fe4-40fb-ab90-3d8282592b75"
   },
-  "Amazon.US.FOXWeather": {
-    "name": "FOX Weather",
-    "id": "amzn1.dv.gti.907c1249-2309-4e13-afdf-1766574d2e53"
+  "Amazon.US.StarTrek": {
+    "name": "Star Trek",
+    "id": "amzn1.dv.gti.8d9a97f8-c4df-40b0-990f-4abd7be078f3"
   },
-  "Amazon.US.BigTenNetwork": {
-    "name": "Big Ten Network",
-    "id": "amzn1.dv.gti.b85a224a-7886-4cca-9b8b-bff2390ba73b"
+  "Amazon.US.RealityTVShores": {
+    "name": "Reality TV: Shores",
+    "id": "amzn1.dv.gti.55ea4887-9412-4cb5-a336-df66db23f836"
   },
-  "Amazon.US.FOXDeportes": {
-    "name": "FOX Deportes",
-    "id": "amzn1.dv.gti.53e8af09-651e-4789-af86-1366914b6810"
+  "Amazon.US.TheChallenge": {
+    "name": "The Challenge",
+    "id": "amzn1.dv.gti.36f53de7-cab4-47b6-8e64-4d29519fd7e4"
   },
-  "Amazon.US.FOXSoul": {
-    "name": "FOX Soul",
-    "id": "amzn1.dv.gti.1cd8e4e2-5b0f-457a-a2ec-c030d18ffd19"
+  "Amazon.US.AnimationFavorites": {
+    "name": "Animation Favorites",
+    "id": "amzn1.dv.gti.867553c5-b72d-4c46-9cd7-97c5f6b88b6e"
   },
-  "Amazon.US.TheTMZChannel": {
-    "name": "The TMZ Channel",
-    "id": "amzn1.dv.gti.23dac253-43f8-4bf4-8892-147723a72024"
+  "Amazon.US.BlackVoices": {
+    "name": "Black Voices",
+    "id": "amzn1.dv.gti.d0322d8c-f507-41fa-9e2e-02221b540860"
   },
-  "Amazon.US.TheMaskedSinger": {
-    "name": "The Masked Singer",
-    "id": "amzn1.dv.gti.a9ddb214-9841-4017-91ff-8580aaec6855"
+  "Amazon.US.KidsAndFamilyFun": {
+    "name": "Kids & Family Fun",
+    "id": "amzn1.dv.gti.048d2dbc-c9f8-449c-b9a6-66b97acc0f38"
   },
-  "Amazon.US.FOXLocalLosAngeles": {
-    "name": "FOX Local Los Angeles",
-    "id": "amzn1.dv.gti.e90e9e92-71ac-4285-bc37-34ee3f067e6c"
+  "Amazon.US.Movies": {
+    "name": "Movies",
+    "id": "amzn1.dv.gti.8dc88c98-7f5a-4567-a1a9-b254d1abce84"
   },
-  "Amazon.US.FOXLocalDetroit": {
-    "name": "FOX Local Detroit",
-    "id": "amzn1.dv.gti.d446d8c8-af29-4b4b-99a6-2df616f7fbb7"
+  "Amazon.US.80sSitcom": {
+    "name": "80s Sitcom",
+    "id": "amzn1.dv.gti.50e8c2e0-65d8-433a-9d8d-985e911e51af"
   },
-  "Amazon.US.FOXLocalDallasFortWorth": {
-    "name": "FOX Local Dallas Fort Worth",
-    "id": "amzn1.dv.gti.064d8696-a191-43ac-9a73-610798d9e99d"
+  "Amazon.US.90sSitcom": {
+    "name": "90s Sitcom",
+    "id": "amzn1.dv.gti.0ff8b99a-4975-49a8-ad0e-05af0baa72cd"
   },
-  "Amazon.US.FOXLocalAtlanta": {
-    "name": "FOX Local Atlanta",
-    "id": "amzn1.dv.gti.861a9a1f-deb8-4824-a02d-b712eb42af86"
+  "Amazon.US.247Laughs": {
+    "name": "24/7 Laughs",
+    "id": "amzn1.dv.gti.c9ff0182-bb8d-4981-9aab-a6d1ff865c6b"
   },
-  "Amazon.US.FOXLocalSanFrancisco": {
-    "name": "FOX Local San Francisco",
-    "id": "amzn1.dv.gti.f1d016a3-1589-4d96-a433-dbc8934b0173"
+  "Amazon.US.48hours": {
+    "name": "48 hours",
+    "id": "amzn1.dv.gti.2509a215-6190-4dbc-83ae-9d974531f2c7"
   },
-  "Amazon.US.FOXLocalOrlando": {
-    "name": "FOX Local Orlando",
-    "id": "amzn1.dv.gti.187a6fe4-7af6-4294-876f-7f2fa09bbcfc"
+  "Amazon.US.PreschoolCorner": {
+    "name": "Preschool Corner",
+    "id": "amzn1.dv.gti.ebcf5bd7-3c87-4453-97a7-dd83cec949b3"
   },
-  "Amazon.US.FOXLocalChicago": {
-    "name": "FOX Local Chicago",
-    "id": "amzn1.dv.gti.aff58d1a-c822-4fe5-b5d8-6ee46a863c14"
+  "Amazon.US.CrimeAndJustice": {
+    "name": "Crime & Justice",
+    "id": "amzn1.dv.gti.e3ef232a-9c53-437c-b49a-efd4b9f18e43"
   },
-  "Amazon.US.FOXLocalPhiladelphia": {
-    "name": "FOX Local Philadelphia",
-    "id": "amzn1.dv.gti.f974b8c9-79ad-4896-b0f3-947ee1893b97"
+  "Amazon.US.TVClassics": {
+    "name": "TV Classics",
+    "id": "amzn1.dv.gti.4d771e25-5695-4042-bce3-755d6004c976"
   },
-  "Amazon.US.FOXLOCALMinnesota": {
-    "name": "FOX LOCAL Minnesota",
-    "id": "amzn1.dv.gti.795cc149-61e6-44f7-8b7b-f42e397d7f7e"
+  "Amazon.US.RealityTVCompetition": {
+    "name": "Reality TV: Competition",
+    "id": "amzn1.dv.gti.b09c3c0e-20c7-4658-9162-19b67054ac77"
   },
-  "Amazon.US.FOXLocalAustin": {
-    "name": "FOX Local Austin",
-    "id": "amzn1.dv.gti.44b08143-fdd1-4976-a27f-3740553618ba"
+  "Amazon.US.CBSNews247": {
+    "name": "CBS News 24/7",
+    "id": "amzn1.dv.gti.10b8a104-4ecc-13a8-3511-9c2ec25b7438"
   },
-  "Amazon.US.FOXLocalMilwaukee": {
-    "name": "FOX Local Milwaukee",
-    "id": "amzn1.dv.gti.93bab040-596c-46d9-988e-f4efcb03edc6"
+  "Amazon.US.AllDayDrama": {
+    "name": "All Day Drama",
+    "id": "amzn1.dv.gti.5bf980e9-0c70-4b6e-a1b6-35922371039e"
   },
-  "Amazon.US.FOXLocalHouston": {
-    "name": "FOX Local Houston",
-    "id": "amzn1.dv.gti.882b4c97-996e-437e-8da6-fdc470240a3a"
+  "Amazon.US.HistoryAndUndiscovered": {
+    "name": "History & Undiscovered",
+    "id": "amzn1.dv.gti.030ef578-86f0-4fc7-81ce-745650c374bc"
   },
-  "Amazon.US.FOXLocalPhoenix": {
-    "name": "FOX Local Phoenix",
-    "id": "amzn1.dv.gti.27ad26a8-1760-463a-8358-63e0eb7a4065"
+  "Amazon.US.NostalgicHits": {
+    "name": "Nostalgic Hits",
+    "id": "amzn1.dv.gti.8e71f197-7fd9-4944-83c6-6605da690b91"
   },
-  "Amazon.US.FOXLocalWashingtonDC": {
-    "name": "FOX Local Washington DC",
-    "id": "amzn1.dv.gti.4c6250dd-6b3b-4e0f-a87e-c28e7053ba1a"
+  "Amazon.US.CBSSportsHQ": {
+    "name": "CBS Sports HQ",
+    "id": "amzn1.dv.gti.28ba2621-664b-b1f1-3cc4-cf82ec88f652"
   },
-  "Amazon.US.FOXLocalSeattle": {
-    "name": "FOX Local Seattle",
-    "id": "amzn1.dv.gti.4bfdd32e-3ea9-4d40-b1dc-0a2758418676"
+  "Amazon.US.60Minutes": {
+    "name": "60 Minutes",
+    "id": "amzn1.dv.gti.32f32348-684a-4666-8ec8-5975d6b49967"
   },
-  "Amazon.US.FOXLocalNewYork": {
-    "name": "FOX Local New York",
-    "id": "amzn1.dv.gti.e1e55c10-f0e9-49f6-9a42-94c87f42b796"
+  "Amazon.US.InsideEdition": {
+    "name": "Inside Edition",
+    "id": "amzn1.dv.gti.95745a17-440b-4e5d-9779-ccd6f5a01d3a"
   },
-  "Amazon.US.FOXLocalTampaBay": {
-    "name": "FOX Local Tampa Bay",
-    "id": "amzn1.dv.gti.85b32b65-3711-4b0e-b822-6faf95c81ad5"
+  "Amazon.US.UEFAChampionsLeague": {
+    "name": "UEFA Champions League",
+    "id": "amzn1.dv.gti.c72c8f26-e066-4108-8ec3-aa2c0a888867"
+  },
+  "Amazon.US.CBSSportsGolazoNetwork": {
+    "name": "CBS Sports Golazo Network",
+    "id": "amzn1.dv.gti.a43b91c9-808a-44ac-a19b-780788b95b06"
+  },
+  "Amazon.US.ET": {
+    "name": "ET",
+    "id": "amzn1.dv.gti.8aba26b5-e4b6-4486-e504-b23623a0bd0f"
+  },
+  "Amazon.US.CBSBigBrotherFeed1": {
+    "name": "CBS Big Brother Feed 1",
+    "id": "amzn1.dv.gti.eeb8b009-dec4-5f6b-b250-b38da3de364a"
+  },
+  "Amazon.US.CBSBigBrotherFeed2": {
+    "name": "CBS Big Brother Feed 2",
+    "id": "amzn1.dv.gti.b0b8b008-d716-93da-705c-2382b0cc8700"
+  },
+  "Amazon.US.CBSBigBrotherFeed3": {
+    "name": "CBS Big Brother Feed 3",
+    "id": "amzn1.dv.gti.c6b8b006-0b21-f1f3-5dde-3be6e45a6c27"
+  },
+  "Amazon.US.CBSBigBrotherFeed4": {
+    "name": "CBS Big Brother Feed 4",
+    "id": "amzn1.dv.gti.8eb8b005-b5c1-7fa5-2f74-9e40359413fe"
+  },
+  "Amazon.US.CBSBigBrotherFeed5": {
+    "name": "CBS Big Brother Feed 5",
+    "id": "amzn1.dv.gti.dcb8b004-b594-51b2-c3af-fb81866ca6ad"
+  },
+  "Amazon.US.CBSNewsNewYork": {
+    "name": "CBS News New York",
+    "id": "amzn1.dv.gti.affc6488-7c55-4cf1-bc9d-d12b3a598f6c"
+  },
+  "Amazon.US.CBSNewsLosAngeles": {
+    "name": "CBS News Los Angeles",
+    "id": "amzn1.dv.gti.bbc47c6d-a02a-47d3-b0ed-9975979903fd"
+  },
+  "Amazon.US.CBSNewsChicago": {
+    "name": "CBS News Chicago",
+    "id": "amzn1.dv.gti.6c159da6-c0b1-4d4b-bdcd-bad624947a92"
+  },
+  "Amazon.US.CBSNewsPhiladelphia": {
+    "name": "CBS News Philadelphia",
+    "id": "amzn1.dv.gti.a5c51878-ad8a-4655-a8bd-714cc84fee9e"
+  },
+  "Amazon.US.CBSNewsBoston": {
+    "name": "CBS News Boston",
+    "id": "amzn1.dv.gti.99bf9bb9-352e-4598-94d7-327bc286b41c"
+  },
+  "Amazon.US.CBSNewsBayArea": {
+    "name": "CBS News Bay Area",
+    "id": "amzn1.dv.gti.f78a3815-e04d-4586-8ea0-8707bdc3dfb8"
+  },
+  "Amazon.US.CBSNewsDetroit": {
+    "name": "CBS News Detroit",
+    "id": "amzn1.dv.gti.0176a824-17d2-4a8a-b3c6-2405b9fd9989"
+  },
+  "Amazon.US.CBSNewsPittsburgh": {
+    "name": "CBS News Pittsburgh",
+    "id": "amzn1.dv.gti.0bd95565-fa04-4c14-b8bc-fcc0ab221e19"
+  },
+  "Amazon.US.CBSNewsTexas": {
+    "name": "CBS News Texas",
+    "id": "amzn1.dv.gti.a9ad2ca0-90fe-4f39-b96f-a24f4cd1f609"
+  },
+  "Amazon.US.CBSNewsMinnesota": {
+    "name": "CBS News Minnesota",
+    "id": "amzn1.dv.gti.0a801ae2-07db-40b4-a79f-60a8bc32cc05"
+  },
+  "Amazon.US.CBSNewsColorado": {
+    "name": "CBS News Colorado",
+    "id": "amzn1.dv.gti.d0fb83fd-08db-43a1-a00a-ef4a77368fd4"
   },
   "Amazon.US.LaRosadeGuadalupe": {
     "name": "La Rosa de Guadalupe",
