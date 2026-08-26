@@ -1,15 +1,35 @@
 {
-  "Amazon.US.CNNOriginals": {
-    "name": "CNN Originals",
-    "id": "amzn1.dv.gti.ddcc09e4-3f47-45cb-a61b-57c18bad0210"
+  "Amazon.US.beINSPORTS": {
+    "name": "beIN SPORTS",
+    "id": "amzn1.dv.gti.145396e8-17c3-4fd4-a443-13479d7a5c72"
   },
-  "Amazon.US.CNNStream": {
-    "name": "CNN Stream",
-    "id": "amzn1.dv.gti.bc19c93a-298b-4485-84d6-3bb5ab3b80ce"
+  "Amazon.US.beINSPORTSenEspanol": {
+    "name": "beIN SPORTS en Español",
+    "id": "amzn1.dv.gti.ced1e20d-2e30-4204-86c2-c0fb8b960b7d"
   },
-  "Amazon.US.CNNInternational": {
-    "name": "CNN International",
-    "id": "amzn1.dv.gti.ab66ad81-f5c6-4fa3-8d24-bc8290bc41cf"
+  "Amazon.US.AMC": {
+    "name": "AMC",
+    "id": "amzn1.dv.gti.d6b9d2a9-982b-d852-5baa-19f74aea0a98"
+  },
+  "Amazon.US.IFC": {
+    "name": "IFC",
+    "id": "amzn1.dv.gti.70b9d2ab-4255-2743-3a94-e8c4909a1319"
+  },
+  "Amazon.US.TheWalkingDeadChannel": {
+    "name": "The Walking Dead Channel",
+    "id": "amzn1.dv.gti.a8bad16b-7da1-0ef6-face-1fcfa7bf0d30"
+  },
+  "Amazon.US.SundanceTV": {
+    "name": "Sundance TV",
+    "id": "amzn1.dv.gti.98b9d2ab-f323-8a56-d8b4-60c2b2bea776"
+  },
+  "Amazon.US.BBCAmerica": {
+    "name": "BBC America",
+    "id": "amzn1.dv.gti.a8b9d2aa-8cd7-4c74-85e1-bffd3f384993"
+  },
+  "Amazon.US.AMCPlus": {
+    "name": "AMC +",
+    "id": "amzn1.dv.gti.baba2927-2767-5256-8eca-fcfd2ccc7959"
   },
   "Amazon.US.CinemaxAction": {
     "name": "Cinemax Action",
@@ -35,29 +55,17 @@
     "name": "MAX Latino East",
     "id": "amzn1.dv.gti.76ba51df-6aec-f8aa-7f4a-4a7071571ec7"
   },
-  "Amazon.US.beINSPORTS": {
-    "name": "beIN SPORTS",
-    "id": "amzn1.dv.gti.145396e8-17c3-4fd4-a443-13479d7a5c72"
+  "Amazon.US.CNNOriginals": {
+    "name": "CNN Originals",
+    "id": "amzn1.dv.gti.ddcc09e4-3f47-45cb-a61b-57c18bad0210"
   },
-  "Amazon.US.beINSPORTSenEspanol": {
-    "name": "beIN SPORTS en Español",
-    "id": "amzn1.dv.gti.ced1e20d-2e30-4204-86c2-c0fb8b960b7d"
+  "Amazon.US.CNNStream": {
+    "name": "CNN Stream",
+    "id": "amzn1.dv.gti.bc19c93a-298b-4485-84d6-3bb5ab3b80ce"
   },
-  "Amazon.US.FoxWeather": {
-    "name": "Fox Weather",
-    "id": "amzn1.dv.gti.8e05601b-5b1b-4368-b193-85502e9e526d"
-  },
-  "Amazon.US.FoxJustice": {
-    "name": "Fox Justice",
-    "id": "amzn1.dv.gti.c70c1745-7397-434e-8af1-56e19525508c"
-  },
-  "Amazon.US.FOXNewsTalk": {
-    "name": "FOX News Talk",
-    "id": "amzn1.dv.gti.affaaa5f-8722-4c54-a4c8-cdb88210e58e"
-  },
-  "Amazon.US.LiveNOWbyFOX": {
-    "name": "LiveNOW by FOX",
-    "id": "amzn1.dv.gti.64039d4c-c753-44fc-8f3f-6af8113e4685"
+  "Amazon.US.CNNInternational": {
+    "name": "CNN International",
+    "id": "amzn1.dv.gti.ab66ad81-f5c6-4fa3-8d24-bc8290bc41cf"
   },
   "Amazon.US.MGMPlusMARQUEE": {
     "name": "MGM+ MARQUEE",
@@ -75,29 +83,21 @@
     "name": "MGM+ HITS",
     "id": "amzn1.dv.gti.b4bb6f97-38fc-ed66-6660-c71e04e0a99b"
   },
-  "Amazon.US.AMC": {
-    "name": "AMC",
-    "id": "amzn1.dv.gti.d6b9d2a9-982b-d852-5baa-19f74aea0a98"
+  "Amazon.US.FoxWeather": {
+    "name": "Fox Weather",
+    "id": "amzn1.dv.gti.8e05601b-5b1b-4368-b193-85502e9e526d"
   },
-  "Amazon.US.IFC": {
-    "name": "IFC",
-    "id": "amzn1.dv.gti.70b9d2ab-4255-2743-3a94-e8c4909a1319"
+  "Amazon.US.FoxJustice": {
+    "name": "Fox Justice",
+    "id": "amzn1.dv.gti.c70c1745-7397-434e-8af1-56e19525508c"
   },
-  "Amazon.US.TheWalkingDeadChannel": {
-    "name": "The Walking Dead Channel",
-    "id": "amzn1.dv.gti.a8bad16b-7da1-0ef6-face-1fcfa7bf0d30"
+  "Amazon.US.FOXNewsTalk": {
+    "name": "FOX News Talk",
+    "id": "amzn1.dv.gti.affaaa5f-8722-4c54-a4c8-cdb88210e58e"
   },
-  "Amazon.US.SundanceTV": {
-    "name": "Sundance TV",
-    "id": "amzn1.dv.gti.98b9d2ab-f323-8a56-d8b4-60c2b2bea776"
-  },
-  "Amazon.US.BBCAmerica": {
-    "name": "BBC America",
-    "id": "amzn1.dv.gti.a8b9d2aa-8cd7-4c74-85e1-bffd3f384993"
-  },
-  "Amazon.US.AMCPlus": {
-    "name": "AMC +",
-    "id": "amzn1.dv.gti.baba2927-2767-5256-8eca-fcfd2ccc7959"
+  "Amazon.US.LiveNOWbyFOX": {
+    "name": "LiveNOW by FOX",
+    "id": "amzn1.dv.gti.64039d4c-c753-44fc-8f3f-6af8113e4685"
   },
   "Amazon.US.France24EN": {
     "name": "France24 EN",
@@ -1787,8 +1787,8 @@
     "name": "Tribunal Justice",
     "id": "amzn1.dv.gti.f4666152-5a76-4a8c-9e72-839ea5a4ae5b"
   },
-  "Amazon.US.JerrySpringerpresentedbyNosey": {
-    "name": "Jerry Springer presented by Nosey",
+  "Amazon.US.SteveWilkospresentedbyNosey": {
+    "name": "Steve Wilkos presented by Nosey",
     "id": "amzn1.dv.gti.e2de6851-3dd1-488d-876f-087b5ca83e5f"
   },
   "Amazon.US.TMZ": {
@@ -3935,6 +3935,10 @@
     "name": "ABC Green Bay News (WBAY)",
     "id": "amzn1.dv.gti.bae8a22c-54f1-435a-9bb0-98d641d99fcd"
   },
+  "Amazon.US.CBSHonoluluNewsKGMB": {
+    "name": "CBS Honolulu News (KGMB)",
+    "id": "amzn1.dv.gti.0eac0cbf-c32f-486e-b237-a457be85b482"
+  },
   "Amazon.US.CBSRoanokeNewsWDBJ": {
     "name": "CBS Roanoke News (WDBJ)",
     "id": "amzn1.dv.gti.5ed3e3ff-50fe-4c72-b534-55dc19d08d18"
@@ -4315,6 +4319,10 @@
     "name": "NBC/ABC Peoria News (WEEK)",
     "id": "amzn1.dv.gti.78237aaf-d396-4e33-8b79-253e3d63d817"
   },
+  "Amazon.US.NBCFOXMinotBismarkDicksonWillistonNewsKFYRKMOT": {
+    "name": "NBC/FOX Minot-Bismark-Dickson (Williston) News (KFYR/KMOT)",
+    "id": "amzn1.dv.gti.78406f2f-3070-453d-9e02-17182e91ebb6"
+  },
   "Amazon.US.ABCColumbusGAOpelikaALNewsWTVM": {
     "name": "ABC Columbus, GA (Opelika, AL) News (WTVM)",
     "id": "amzn1.dv.gti.20f15cb5-8b14-408d-a29a-1b34da6f859e"
@@ -4354,6 +4362,50 @@
   "Amazon.US.CJENMKPop": {
     "name": "CJ ENM K-Pop",
     "id": "amzn1.dv.gti.3f680e0c-eceb-40e2-91c9-d2a4015d5cbc"
+  },
+  "Amazon.US.NBCBluefieldBeckleyOakHillNewsWVVA": {
+    "name": "NBC Bluefield-Beckley-Oak Hill News (WVVA)",
+    "id": "amzn1.dv.gti.0d6c464e-f973-4bf9-be5b-c8076039b419"
+  },
+  "Amazon.US.NBCWilmingtonNewsWECT": {
+    "name": "NBC Wilmington News (WECT)",
+    "id": "amzn1.dv.gti.02c6e96e-8156-4250-905e-f4338ccb8376"
+  },
+  "Amazon.US.ABCGainesvilleNewsWCJB": {
+    "name": "ABC Gainesville News (WCJB)",
+    "id": "amzn1.dv.gti.929147f9-5a67-41da-8316-424eaf45a3c3"
+  },
+  "Amazon.US.ABCHarrisonburgNewsWHSV": {
+    "name": "ABC Harrisonburg News (WHSV)",
+    "id": "amzn1.dv.gti.1c22a160-e1e6-45a9-b532-23fa377e1c76"
+  },
+  "Amazon.US.CBSBangorNewsWABI": {
+    "name": "CBS Bangor News (WABI)",
+    "id": "amzn1.dv.gti.cdca00d9-a283-4c40-905c-065f7b7279f8"
+  },
+  "Amazon.US.CBSClarksburgWestonNewsWDTV": {
+    "name": "CBS Clarksburg-Weston News (WDTV)",
+    "id": "amzn1.dv.gti.5f2d0717-9576-49ae-8483-c244059f06cc"
+  },
+  "Amazon.US.CBSBinghamtonNewsWBNG": {
+    "name": "CBS Binghamton News (WBNG)",
+    "id": "amzn1.dv.gti.64313f2c-5817-4f9e-86f7-4651e9f2b4a4"
+  },
+  "Amazon.US.CBSDothanNewsWTVY": {
+    "name": "CBS Dothan News (WTVY)",
+    "id": "amzn1.dv.gti.98ddd1fd-e6b9-4846-a917-5ac3d06f025b"
+  },
+  "Amazon.US.CBSFOXPresqueIsleNewsWAGM": {
+    "name": "CBS/FOX Presque Isle News (WAGM)",
+    "id": "amzn1.dv.gti.f831844c-e372-4798-826b-c4516e697319"
+  },
+  "Amazon.US.NBCCharlottesvilleNewsWVIR": {
+    "name": "NBC Charlottesville News (WVIR)",
+    "id": "amzn1.dv.gti.74bcab45-1dff-4c00-9f1f-7af9adfbce90"
+  },
+  "Amazon.US.NBCParkersburgNewsWTAP": {
+    "name": "NBC Parkersburg News (WTAP)",
+    "id": "amzn1.dv.gti.5274f201-4a3a-4f9d-a3f2-d6548a167893"
   },
   "Amazon.US.OnPatrolLive": {
     "name": "On Patrol: Live",
