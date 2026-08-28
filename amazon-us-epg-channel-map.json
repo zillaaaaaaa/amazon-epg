@@ -1,60 +1,4 @@
 {
-  "Amazon.US.AMC": {
-    "name": "AMC",
-    "id": "amzn1.dv.gti.d6b9d2a9-982b-d852-5baa-19f74aea0a98"
-  },
-  "Amazon.US.IFC": {
-    "name": "IFC",
-    "id": "amzn1.dv.gti.70b9d2ab-4255-2743-3a94-e8c4909a1319"
-  },
-  "Amazon.US.TheWalkingDeadChannel": {
-    "name": "The Walking Dead Channel",
-    "id": "amzn1.dv.gti.a8bad16b-7da1-0ef6-face-1fcfa7bf0d30"
-  },
-  "Amazon.US.SundanceTV": {
-    "name": "Sundance TV",
-    "id": "amzn1.dv.gti.98b9d2ab-f323-8a56-d8b4-60c2b2bea776"
-  },
-  "Amazon.US.BBCAmerica": {
-    "name": "BBC America",
-    "id": "amzn1.dv.gti.a8b9d2aa-8cd7-4c74-85e1-bffd3f384993"
-  },
-  "Amazon.US.AMCPlus": {
-    "name": "AMC +",
-    "id": "amzn1.dv.gti.baba2927-2767-5256-8eca-fcfd2ccc7959"
-  },
-  "Amazon.US.beINSPORTS": {
-    "name": "beIN SPORTS",
-    "id": "amzn1.dv.gti.145396e8-17c3-4fd4-a443-13479d7a5c72"
-  },
-  "Amazon.US.beINSPORTSenEspanol": {
-    "name": "beIN SPORTS en Español",
-    "id": "amzn1.dv.gti.ced1e20d-2e30-4204-86c2-c0fb8b960b7d"
-  },
-  "Amazon.US.CinemaxAction": {
-    "name": "Cinemax Action",
-    "id": "amzn1.dv.gti.f4ba51de-f362-f0da-6b2a-ead84c0f2eda"
-  },
-  "Amazon.US.CinemaxHDEast": {
-    "name": "Cinemax HD East",
-    "id": "amzn1.dv.gti.7cba51d2-a283-7a60-849c-dfe0d877b447"
-  },
-  "Amazon.US.CinemaxClassics": {
-    "name": "Cinemax Classics",
-    "id": "amzn1.dv.gti.90ba51df-39ec-d369-0650-57e9bc128a39"
-  },
-  "Amazon.US.CinemaxWest": {
-    "name": "Cinemax West",
-    "id": "amzn1.dv.gti.98ba51d2-f735-0704-9a49-74ec7a2516d7"
-  },
-  "Amazon.US.CinemaxHits": {
-    "name": "Cinemax Hits",
-    "id": "amzn1.dv.gti.a2ba51df-a269-3df2-f11f-c1f6b27e1f54"
-  },
-  "Amazon.US.MAXLatinoEast": {
-    "name": "MAX Latino East",
-    "id": "amzn1.dv.gti.76ba51df-6aec-f8aa-7f4a-4a7071571ec7"
-  },
   "Amazon.US.MGMPlusMARQUEE": {
     "name": "MGM+ MARQUEE",
     "id": "amzn1.dv.gti.46bb6fa7-cbcf-c9c4-b8e7-633673ed528d"
@@ -98,6 +42,62 @@
   "Amazon.US.LiveNOWbyFOX": {
     "name": "LiveNOW by FOX",
     "id": "amzn1.dv.gti.64039d4c-c753-44fc-8f3f-6af8113e4685"
+  },
+  "Amazon.US.CinemaxAction": {
+    "name": "Cinemax Action",
+    "id": "amzn1.dv.gti.f4ba51de-f362-f0da-6b2a-ead84c0f2eda"
+  },
+  "Amazon.US.CinemaxHDEast": {
+    "name": "Cinemax HD East",
+    "id": "amzn1.dv.gti.7cba51d2-a283-7a60-849c-dfe0d877b447"
+  },
+  "Amazon.US.CinemaxClassics": {
+    "name": "Cinemax Classics",
+    "id": "amzn1.dv.gti.90ba51df-39ec-d369-0650-57e9bc128a39"
+  },
+  "Amazon.US.CinemaxWest": {
+    "name": "Cinemax West",
+    "id": "amzn1.dv.gti.98ba51d2-f735-0704-9a49-74ec7a2516d7"
+  },
+  "Amazon.US.CinemaxHits": {
+    "name": "Cinemax Hits",
+    "id": "amzn1.dv.gti.a2ba51df-a269-3df2-f11f-c1f6b27e1f54"
+  },
+  "Amazon.US.MAXLatinoEast": {
+    "name": "MAX Latino East",
+    "id": "amzn1.dv.gti.76ba51df-6aec-f8aa-7f4a-4a7071571ec7"
+  },
+  "Amazon.US.beINSPORTS": {
+    "name": "beIN SPORTS",
+    "id": "amzn1.dv.gti.145396e8-17c3-4fd4-a443-13479d7a5c72"
+  },
+  "Amazon.US.beINSPORTSenEspanol": {
+    "name": "beIN SPORTS en Español",
+    "id": "amzn1.dv.gti.ced1e20d-2e30-4204-86c2-c0fb8b960b7d"
+  },
+  "Amazon.US.AMC": {
+    "name": "AMC",
+    "id": "amzn1.dv.gti.d6b9d2a9-982b-d852-5baa-19f74aea0a98"
+  },
+  "Amazon.US.IFC": {
+    "name": "IFC",
+    "id": "amzn1.dv.gti.70b9d2ab-4255-2743-3a94-e8c4909a1319"
+  },
+  "Amazon.US.TheWalkingDeadChannel": {
+    "name": "The Walking Dead Channel",
+    "id": "amzn1.dv.gti.a8bad16b-7da1-0ef6-face-1fcfa7bf0d30"
+  },
+  "Amazon.US.SundanceTV": {
+    "name": "Sundance TV",
+    "id": "amzn1.dv.gti.98b9d2ab-f323-8a56-d8b4-60c2b2bea776"
+  },
+  "Amazon.US.BBCAmerica": {
+    "name": "BBC America",
+    "id": "amzn1.dv.gti.a8b9d2aa-8cd7-4c74-85e1-bffd3f384993"
+  },
+  "Amazon.US.AMCPlus": {
+    "name": "AMC +",
+    "id": "amzn1.dv.gti.baba2927-2767-5256-8eca-fcfd2ccc7959"
   },
   "Amazon.US.France24EN": {
     "name": "France24 EN",
