@@ -1,4 +1,24 @@
 {
+  "Amazon.US.CNNOriginals": {
+    "name": "CNN Originals",
+    "id": "amzn1.dv.gti.ddcc09e4-3f47-45cb-a61b-57c18bad0210"
+  },
+  "Amazon.US.CNNStream": {
+    "name": "CNN Stream",
+    "id": "amzn1.dv.gti.bc19c93a-298b-4485-84d6-3bb5ab3b80ce"
+  },
+  "Amazon.US.CNNInternational": {
+    "name": "CNN International",
+    "id": "amzn1.dv.gti.ab66ad81-f5c6-4fa3-8d24-bc8290bc41cf"
+  },
+  "Amazon.US.beINSPORTS": {
+    "name": "beIN SPORTS",
+    "id": "amzn1.dv.gti.145396e8-17c3-4fd4-a443-13479d7a5c72"
+  },
+  "Amazon.US.beINSPORTSenEspanol": {
+    "name": "beIN SPORTS en Español",
+    "id": "amzn1.dv.gti.ced1e20d-2e30-4204-86c2-c0fb8b960b7d"
+  },
   "Amazon.US.FoxWeather": {
     "name": "Fox Weather",
     "id": "amzn1.dv.gti.8e05601b-5b1b-4368-b193-85502e9e526d"
@@ -55,18 +75,6 @@
     "name": "AMC +",
     "id": "amzn1.dv.gti.baba2927-2767-5256-8eca-fcfd2ccc7959"
   },
-  "Amazon.US.CNNOriginals": {
-    "name": "CNN Originals",
-    "id": "amzn1.dv.gti.ddcc09e4-3f47-45cb-a61b-57c18bad0210"
-  },
-  "Amazon.US.CNNStream": {
-    "name": "CNN Stream",
-    "id": "amzn1.dv.gti.bc19c93a-298b-4485-84d6-3bb5ab3b80ce"
-  },
-  "Amazon.US.CNNInternational": {
-    "name": "CNN International",
-    "id": "amzn1.dv.gti.ab66ad81-f5c6-4fa3-8d24-bc8290bc41cf"
-  },
   "Amazon.US.CinemaxAction": {
     "name": "Cinemax Action",
     "id": "amzn1.dv.gti.f4ba51de-f362-f0da-6b2a-ead84c0f2eda"
@@ -90,14 +98,6 @@
   "Amazon.US.MAXLatinoEast": {
     "name": "MAX Latino East",
     "id": "amzn1.dv.gti.76ba51df-6aec-f8aa-7f4a-4a7071571ec7"
-  },
-  "Amazon.US.beINSPORTS": {
-    "name": "beIN SPORTS",
-    "id": "amzn1.dv.gti.145396e8-17c3-4fd4-a443-13479d7a5c72"
-  },
-  "Amazon.US.beINSPORTSenEspanol": {
-    "name": "beIN SPORTS en Español",
-    "id": "amzn1.dv.gti.ced1e20d-2e30-4204-86c2-c0fb8b960b7d"
   },
   "Amazon.US.France24EN": {
     "name": "France24 EN",
