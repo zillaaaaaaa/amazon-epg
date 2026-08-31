@@ -1,4 +1,28 @@
 {
+  "Amazon.US.beINSPORTS": {
+    "name": "beIN SPORTS",
+    "id": "amzn1.dv.gti.145396e8-17c3-4fd4-a443-13479d7a5c72"
+  },
+  "Amazon.US.beINSPORTSenEspanol": {
+    "name": "beIN SPORTS en Español",
+    "id": "amzn1.dv.gti.ced1e20d-2e30-4204-86c2-c0fb8b960b7d"
+  },
+  "Amazon.US.MGMPlusMARQUEE": {
+    "name": "MGM+ MARQUEE",
+    "id": "amzn1.dv.gti.46bb6fa7-cbcf-c9c4-b8e7-633673ed528d"
+  },
+  "Amazon.US.MGMPlusDRIVEIN": {
+    "name": "MGM+ DRIVE-IN",
+    "id": "amzn1.dv.gti.50bb6f4b-bf7a-3390-c329-ff127af9b88d"
+  },
+  "Amazon.US.MGMPlus": {
+    "name": "MGM+",
+    "id": "amzn1.dv.gti.f8bb6f4c-3669-0311-3748-61e0f9096921"
+  },
+  "Amazon.US.MGMPlusHITS": {
+    "name": "MGM+ HITS",
+    "id": "amzn1.dv.gti.b4bb6f97-38fc-ed66-6660-c71e04e0a99b"
+  },
   "Amazon.US.CNNOriginals": {
     "name": "CNN Originals",
     "id": "amzn1.dv.gti.ddcc09e4-3f47-45cb-a61b-57c18bad0210"
@@ -11,13 +35,29 @@
     "name": "CNN International",
     "id": "amzn1.dv.gti.ab66ad81-f5c6-4fa3-8d24-bc8290bc41cf"
   },
-  "Amazon.US.beINSPORTS": {
-    "name": "beIN SPORTS",
-    "id": "amzn1.dv.gti.145396e8-17c3-4fd4-a443-13479d7a5c72"
+  "Amazon.US.AMC": {
+    "name": "AMC",
+    "id": "amzn1.dv.gti.d6b9d2a9-982b-d852-5baa-19f74aea0a98"
   },
-  "Amazon.US.beINSPORTSenEspanol": {
-    "name": "beIN SPORTS en Español",
-    "id": "amzn1.dv.gti.ced1e20d-2e30-4204-86c2-c0fb8b960b7d"
+  "Amazon.US.IFC": {
+    "name": "IFC",
+    "id": "amzn1.dv.gti.70b9d2ab-4255-2743-3a94-e8c4909a1319"
+  },
+  "Amazon.US.TheWalkingDeadChannel": {
+    "name": "The Walking Dead Channel",
+    "id": "amzn1.dv.gti.a8bad16b-7da1-0ef6-face-1fcfa7bf0d30"
+  },
+  "Amazon.US.SundanceTV": {
+    "name": "Sundance TV",
+    "id": "amzn1.dv.gti.98b9d2ab-f323-8a56-d8b4-60c2b2bea776"
+  },
+  "Amazon.US.BBCAmerica": {
+    "name": "BBC America",
+    "id": "amzn1.dv.gti.a8b9d2aa-8cd7-4c74-85e1-bffd3f384993"
+  },
+  "Amazon.US.AMCPlus": {
+    "name": "AMC +",
+    "id": "amzn1.dv.gti.baba2927-2767-5256-8eca-fcfd2ccc7959"
   },
   "Amazon.US.CinemaxAction": {
     "name": "Cinemax Action",
@@ -43,22 +83,6 @@
     "name": "MAX Latino East",
     "id": "amzn1.dv.gti.76ba51df-6aec-f8aa-7f4a-4a7071571ec7"
   },
-  "Amazon.US.MGMPlusMARQUEE": {
-    "name": "MGM+ MARQUEE",
-    "id": "amzn1.dv.gti.46bb6fa7-cbcf-c9c4-b8e7-633673ed528d"
-  },
-  "Amazon.US.MGMPlusDRIVEIN": {
-    "name": "MGM+ DRIVE-IN",
-    "id": "amzn1.dv.gti.50bb6f4b-bf7a-3390-c329-ff127af9b88d"
-  },
-  "Amazon.US.MGMPlus": {
-    "name": "MGM+",
-    "id": "amzn1.dv.gti.f8bb6f4c-3669-0311-3748-61e0f9096921"
-  },
-  "Amazon.US.MGMPlusHITS": {
-    "name": "MGM+ HITS",
-    "id": "amzn1.dv.gti.b4bb6f97-38fc-ed66-6660-c71e04e0a99b"
-  },
   "Amazon.US.FoxWeather": {
     "name": "Fox Weather",
     "id": "amzn1.dv.gti.8e05601b-5b1b-4368-b193-85502e9e526d"
@@ -75,29 +99,33 @@
     "name": "LiveNOW by FOX",
     "id": "amzn1.dv.gti.64039d4c-c753-44fc-8f3f-6af8113e4685"
   },
-  "Amazon.US.AMC": {
-    "name": "AMC",
-    "id": "amzn1.dv.gti.d6b9d2a9-982b-d852-5baa-19f74aea0a98"
+  "Amazon.US.France24EN": {
+    "name": "France24 EN",
+    "id": "amzn1.dv.gti.3ae6acf0-0166-4540-958f-58494cabc7ca"
   },
-  "Amazon.US.IFC": {
-    "name": "IFC",
-    "id": "amzn1.dv.gti.70b9d2ab-4255-2743-3a94-e8c4909a1319"
+  "Amazon.US.France24ES": {
+    "name": "France24 ES",
+    "id": "amzn1.dv.gti.fdc363a6-811f-49a6-82d4-33e588fa02f3"
   },
-  "Amazon.US.TheWalkingDeadChannel": {
-    "name": "The Walking Dead Channel",
-    "id": "amzn1.dv.gti.a8bad16b-7da1-0ef6-face-1fcfa7bf0d30"
+  "Amazon.US.France24FR": {
+    "name": "France24 FR",
+    "id": "amzn1.dv.gti.5a5647f2-a649-4300-8b28-e3022bb773cb"
   },
-  "Amazon.US.SundanceTV": {
-    "name": "Sundance TV",
-    "id": "amzn1.dv.gti.98b9d2ab-f323-8a56-d8b4-60c2b2bea776"
+  "Amazon.US.MLBNetwork": {
+    "name": "MLB Network",
+    "id": "amzn1.dv.gti.4df07d23-54fa-4bee-8d95-b96480800216"
   },
-  "Amazon.US.BBCAmerica": {
-    "name": "BBC America",
-    "id": "amzn1.dv.gti.a8b9d2aa-8cd7-4c74-85e1-bffd3f384993"
+  "Amazon.US.MLFandBassChannel": {
+    "name": "MLF and Bass Channel",
+    "id": "amzn1.dv.gti.c2739131-85f8-4014-bf63-54e074956555"
   },
-  "Amazon.US.AMCPlus": {
-    "name": "AMC +",
-    "id": "amzn1.dv.gti.baba2927-2767-5256-8eca-fcfd2ccc7959"
+  "Amazon.US.HuntStream": {
+    "name": "HuntStream",
+    "id": "amzn1.dv.gti.c86668e7-d5bb-4d66-8992-a931cd99ebeb"
+  },
+  "Amazon.US.NBATVHDTV": {
+    "name": "NBA TV HDTV",
+    "id": "amzn1.dv.gti.eebae9c5-883f-c79f-abc6-092683038e6d"
   },
   "Amazon.US.HBODrama": {
     "name": "HBO Drama",
@@ -126,34 +154,6 @@
   "Amazon.US.HBOLatino": {
     "name": "HBO Latino",
     "id": "amzn1.dv.gti.0bcf0a87-ebbc-4f0c-9e83-6b4f9bfda936"
-  },
-  "Amazon.US.MLBNetwork": {
-    "name": "MLB Network",
-    "id": "amzn1.dv.gti.4df07d23-54fa-4bee-8d95-b96480800216"
-  },
-  "Amazon.US.MLFandBassChannel": {
-    "name": "MLF and Bass Channel",
-    "id": "amzn1.dv.gti.c2739131-85f8-4014-bf63-54e074956555"
-  },
-  "Amazon.US.HuntStream": {
-    "name": "HuntStream",
-    "id": "amzn1.dv.gti.c86668e7-d5bb-4d66-8992-a931cd99ebeb"
-  },
-  "Amazon.US.NBATVHDTV": {
-    "name": "NBA TV HDTV",
-    "id": "amzn1.dv.gti.eebae9c5-883f-c79f-abc6-092683038e6d"
-  },
-  "Amazon.US.France24EN": {
-    "name": "France24 EN",
-    "id": "amzn1.dv.gti.3ae6acf0-0166-4540-958f-58494cabc7ca"
-  },
-  "Amazon.US.France24ES": {
-    "name": "France24 ES",
-    "id": "amzn1.dv.gti.fdc363a6-811f-49a6-82d4-33e588fa02f3"
-  },
-  "Amazon.US.France24FR": {
-    "name": "France24 FR",
-    "id": "amzn1.dv.gti.5a5647f2-a649-4300-8b28-e3022bb773cb"
   },
   "Amazon.US.Showtime": {
     "name": "Showtime",
@@ -1351,10 +1351,6 @@
     "name": "LazarBeam",
     "id": "amzn1.dv.gti.94f39313-33d0-4242-81f4-549082c54245"
   },
-  "Amazon.US.JackSepticEye": {
-    "name": "JackSepticEye",
-    "id": "amzn1.dv.gti.1247223f-4af0-4887-8d2c-8f885f1b48d8"
-  },
   "Amazon.US.GameplayMinecraft": {
     "name": "Gameplay Minecraft",
     "id": "amzn1.dv.gti.d73f2677-126b-45a2-9058-253409fde0a9"
@@ -1394,10 +1390,6 @@
   "Amazon.US.TonyRobbinsNetwork": {
     "name": "Tony Robbins Network",
     "id": "amzn1.dv.gti.05da2de2-1c2a-42ad-a30b-ff18a6539395"
-  },
-  "Amazon.US.ZachSangShow": {
-    "name": "Zach Sang Show",
-    "id": "amzn1.dv.gti.6ca2cf20-53c1-4718-afb2-38a6e3131ba7"
   },
   "Amazon.US.AnimationPlus": {
     "name": "Animation+",
@@ -1771,16 +1763,12 @@
     "name": "Spooks (MI-5)",
     "id": "amzn1.dv.gti.a84b78eb-a739-4a57-8308-33c79b1268e6"
   },
-  "Amazon.US.TheOutpost": {
-    "name": "The Outpost",
-    "id": "amzn1.dv.gti.737aebb6-6d8e-4dce-953e-566bd0de3bb5"
-  },
   "Amazon.US.DrPhil": {
     "name": "Dr. Phil",
     "id": "amzn1.dv.gti.8ca071bc-d0a3-4836-93ee-8797199ff4ed"
   },
-  "Amazon.US.EnvoyFAST": {
-    "name": "Envoy FAST",
+  "Amazon.US.DrPhilENVOY": {
+    "name": "Dr. Phil ENVOY",
     "id": "amzn1.dv.gti.5c4e7d6c-c4b8-46fc-aa32-e5b8a14c061a"
   },
   "Amazon.US.TribunalJustice": {
@@ -1986,10 +1974,6 @@
   "Amazon.US.TheStandUpChannel": {
     "name": "The Stand-Up Channel",
     "id": "amzn1.dv.gti.0227ac9b-6553-45d2-a231-9716f8db18e1"
-  },
-  "Amazon.US.Upload": {
-    "name": "Upload",
-    "id": "amzn1.dv.gti.62a6af06-43f0-4a3c-8e60-8c538fed26f3"
   },
   "Amazon.US.AlwaysFunny": {
     "name": "Always Funny",
@@ -2391,10 +2375,6 @@
     "name": "Curiosity Now",
     "id": "amzn1.dv.gti.c4d9a173-4a81-4765-868d-b8b9db7ca397"
   },
-  "Amazon.US.RovrPets": {
-    "name": "Rovr Pets",
-    "id": "amzn1.dv.gti.49e04fcc-db8e-42af-883d-d80359d917e7"
-  },
   "Amazon.US.TastemadeTravel": {
     "name": "Tastemade Travel",
     "id": "amzn1.dv.gti.702ea8d0-52a6-48ca-adf4-f2e1ce849e23"
@@ -2467,10 +2447,6 @@
     "name": "Beyond Belief",
     "id": "amzn1.dv.gti.3075b713-11d7-4985-b1ef-fc4105f05176"
   },
-  "Amazon.US.Farscape": {
-    "name": "Farscape",
-    "id": "amzn1.dv.gti.41305995-25c7-4ab9-b51d-3782c7848617"
-  },
   "Amazon.US.HorrorStories": {
     "name": "Horror Stories",
     "id": "amzn1.dv.gti.2e2c19da-51d4-4284-945a-c77c61b5547e"
@@ -2538,10 +2514,6 @@
   "Amazon.US.WhoWantstobeaMillionaire": {
     "name": "Who Wants to be a Millionaire",
     "id": "amzn1.dv.gti.3360f695-de46-497c-92e8-509bd76dedd2"
-  },
-  "Amazon.US.CelebrityNameGame": {
-    "name": "Celebrity Name Game",
-    "id": "amzn1.dv.gti.bde8cfde-16b1-4454-8358-1bbca0bf675b"
   },
   "Amazon.US.ImpossibleQuizShow": {
     "name": "Impossible - Quiz Show",
