@@ -1,4 +1,44 @@
 {
+  "Amazon.US.FoxWeather": {
+    "name": "Fox Weather",
+    "id": "amzn1.dv.gti.8e05601b-5b1b-4368-b193-85502e9e526d"
+  },
+  "Amazon.US.FoxJustice": {
+    "name": "Fox Justice",
+    "id": "amzn1.dv.gti.c70c1745-7397-434e-8af1-56e19525508c"
+  },
+  "Amazon.US.FOXNewsTalk": {
+    "name": "FOX News Talk",
+    "id": "amzn1.dv.gti.affaaa5f-8722-4c54-a4c8-cdb88210e58e"
+  },
+  "Amazon.US.LiveNOWbyFOX": {
+    "name": "LiveNOW by FOX",
+    "id": "amzn1.dv.gti.64039d4c-c753-44fc-8f3f-6af8113e4685"
+  },
+  "Amazon.US.MGMPlusMARQUEE": {
+    "name": "MGM+ MARQUEE",
+    "id": "amzn1.dv.gti.46bb6fa7-cbcf-c9c4-b8e7-633673ed528d"
+  },
+  "Amazon.US.MGMPlusDRIVEIN": {
+    "name": "MGM+ DRIVE-IN",
+    "id": "amzn1.dv.gti.50bb6f4b-bf7a-3390-c329-ff127af9b88d"
+  },
+  "Amazon.US.MGMPlus": {
+    "name": "MGM+",
+    "id": "amzn1.dv.gti.f8bb6f4c-3669-0311-3748-61e0f9096921"
+  },
+  "Amazon.US.MGMPlusHITS": {
+    "name": "MGM+ HITS",
+    "id": "amzn1.dv.gti.b4bb6f97-38fc-ed66-6660-c71e04e0a99b"
+  },
+  "Amazon.US.beINSPORTS": {
+    "name": "beIN SPORTS",
+    "id": "amzn1.dv.gti.145396e8-17c3-4fd4-a443-13479d7a5c72"
+  },
+  "Amazon.US.beINSPORTSenEspanol": {
+    "name": "beIN SPORTS en Español",
+    "id": "amzn1.dv.gti.ced1e20d-2e30-4204-86c2-c0fb8b960b7d"
+  },
   "Amazon.US.AMC": {
     "name": "AMC",
     "id": "amzn1.dv.gti.d6b9d2a9-982b-d852-5baa-19f74aea0a98"
@@ -23,21 +63,17 @@
     "name": "AMC +",
     "id": "amzn1.dv.gti.baba2927-2767-5256-8eca-fcfd2ccc7959"
   },
-  "Amazon.US.FoxWeather": {
-    "name": "Fox Weather",
-    "id": "amzn1.dv.gti.8e05601b-5b1b-4368-b193-85502e9e526d"
+  "Amazon.US.CNNOriginals": {
+    "name": "CNN Originals",
+    "id": "amzn1.dv.gti.ddcc09e4-3f47-45cb-a61b-57c18bad0210"
   },
-  "Amazon.US.FoxJustice": {
-    "name": "Fox Justice",
-    "id": "amzn1.dv.gti.c70c1745-7397-434e-8af1-56e19525508c"
+  "Amazon.US.CNNStream": {
+    "name": "CNN Stream",
+    "id": "amzn1.dv.gti.bc19c93a-298b-4485-84d6-3bb5ab3b80ce"
   },
-  "Amazon.US.FOXNewsTalk": {
-    "name": "FOX News Talk",
-    "id": "amzn1.dv.gti.affaaa5f-8722-4c54-a4c8-cdb88210e58e"
-  },
-  "Amazon.US.LiveNOWbyFOX": {
-    "name": "LiveNOW by FOX",
-    "id": "amzn1.dv.gti.64039d4c-c753-44fc-8f3f-6af8113e4685"
+  "Amazon.US.CNNInternational": {
+    "name": "CNN International",
+    "id": "amzn1.dv.gti.ab66ad81-f5c6-4fa3-8d24-bc8290bc41cf"
   },
   "Amazon.US.CinemaxAction": {
     "name": "Cinemax Action",
@@ -62,42 +98,6 @@
   "Amazon.US.MAXLatinoEast": {
     "name": "MAX Latino East",
     "id": "amzn1.dv.gti.76ba51df-6aec-f8aa-7f4a-4a7071571ec7"
-  },
-  "Amazon.US.beINSPORTS": {
-    "name": "beIN SPORTS",
-    "id": "amzn1.dv.gti.145396e8-17c3-4fd4-a443-13479d7a5c72"
-  },
-  "Amazon.US.beINSPORTSenEspanol": {
-    "name": "beIN SPORTS en Español",
-    "id": "amzn1.dv.gti.ced1e20d-2e30-4204-86c2-c0fb8b960b7d"
-  },
-  "Amazon.US.MGMPlusMARQUEE": {
-    "name": "MGM+ MARQUEE",
-    "id": "amzn1.dv.gti.46bb6fa7-cbcf-c9c4-b8e7-633673ed528d"
-  },
-  "Amazon.US.MGMPlusDRIVEIN": {
-    "name": "MGM+ DRIVE-IN",
-    "id": "amzn1.dv.gti.50bb6f4b-bf7a-3390-c329-ff127af9b88d"
-  },
-  "Amazon.US.MGMPlus": {
-    "name": "MGM+",
-    "id": "amzn1.dv.gti.f8bb6f4c-3669-0311-3748-61e0f9096921"
-  },
-  "Amazon.US.MGMPlusHITS": {
-    "name": "MGM+ HITS",
-    "id": "amzn1.dv.gti.b4bb6f97-38fc-ed66-6660-c71e04e0a99b"
-  },
-  "Amazon.US.CNNOriginals": {
-    "name": "CNN Originals",
-    "id": "amzn1.dv.gti.ddcc09e4-3f47-45cb-a61b-57c18bad0210"
-  },
-  "Amazon.US.CNNStream": {
-    "name": "CNN Stream",
-    "id": "amzn1.dv.gti.bc19c93a-298b-4485-84d6-3bb5ab3b80ce"
-  },
-  "Amazon.US.CNNInternational": {
-    "name": "CNN International",
-    "id": "amzn1.dv.gti.ab66ad81-f5c6-4fa3-8d24-bc8290bc41cf"
   },
   "Amazon.US.France24EN": {
     "name": "France24 EN",
