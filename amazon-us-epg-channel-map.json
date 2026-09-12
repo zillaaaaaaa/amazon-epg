@@ -1,28 +1,4 @@
 {
-  "Amazon.US.AMC": {
-    "name": "AMC",
-    "id": "amzn1.dv.gti.d6b9d2a9-982b-d852-5baa-19f74aea0a98"
-  },
-  "Amazon.US.IFC": {
-    "name": "IFC",
-    "id": "amzn1.dv.gti.70b9d2ab-4255-2743-3a94-e8c4909a1319"
-  },
-  "Amazon.US.TheWalkingDeadChannel": {
-    "name": "The Walking Dead Channel",
-    "id": "amzn1.dv.gti.a8bad16b-7da1-0ef6-face-1fcfa7bf0d30"
-  },
-  "Amazon.US.SundanceTV": {
-    "name": "Sundance TV",
-    "id": "amzn1.dv.gti.98b9d2ab-f323-8a56-d8b4-60c2b2bea776"
-  },
-  "Amazon.US.BBCAmerica": {
-    "name": "BBC America",
-    "id": "amzn1.dv.gti.a8b9d2aa-8cd7-4c74-85e1-bffd3f384993"
-  },
-  "Amazon.US.AMCPlus": {
-    "name": "AMC +",
-    "id": "amzn1.dv.gti.baba2927-2767-5256-8eca-fcfd2ccc7959"
-  },
   "Amazon.US.FoxWeather": {
     "name": "Fox Weather",
     "id": "amzn1.dv.gti.8e05601b-5b1b-4368-b193-85502e9e526d"
@@ -62,6 +38,30 @@
   "Amazon.US.MGMPlusHITS": {
     "name": "MGM+ HITS",
     "id": "amzn1.dv.gti.b4bb6f97-38fc-ed66-6660-c71e04e0a99b"
+  },
+  "Amazon.US.AMC": {
+    "name": "AMC",
+    "id": "amzn1.dv.gti.d6b9d2a9-982b-d852-5baa-19f74aea0a98"
+  },
+  "Amazon.US.IFC": {
+    "name": "IFC",
+    "id": "amzn1.dv.gti.70b9d2ab-4255-2743-3a94-e8c4909a1319"
+  },
+  "Amazon.US.TheWalkingDeadChannel": {
+    "name": "The Walking Dead Channel",
+    "id": "amzn1.dv.gti.a8bad16b-7da1-0ef6-face-1fcfa7bf0d30"
+  },
+  "Amazon.US.SundanceTV": {
+    "name": "Sundance TV",
+    "id": "amzn1.dv.gti.98b9d2ab-f323-8a56-d8b4-60c2b2bea776"
+  },
+  "Amazon.US.BBCAmerica": {
+    "name": "BBC America",
+    "id": "amzn1.dv.gti.a8b9d2aa-8cd7-4c74-85e1-bffd3f384993"
+  },
+  "Amazon.US.AMCPlus": {
+    "name": "AMC +",
+    "id": "amzn1.dv.gti.baba2927-2767-5256-8eca-fcfd2ccc7959"
   },
   "Amazon.US.CNNOriginals": {
     "name": "CNN Originals",
@@ -419,122 +419,6 @@
     "name": "ViX Música",
     "id": "amzn1.dv.gti.cdbba30f-692e-4ae7-be40-1db137cde6fe"
   },
-  "Amazon.US.FOX11LosAngeles": {
-    "name": "FOX 11 Los Angeles",
-    "id": "amzn1.dv.gti.5df157b2-5726-4fec-ba44-54dec4c41ea3"
-  },
-  "Amazon.US.Fox11Plus": {
-    "name": "Fox 11 Plus",
-    "id": "amzn1.dv.gti.971153a8-3362-4e9e-bc8b-8bb7bcaec16a"
-  },
-  "Amazon.US.FOXNewsChannel": {
-    "name": "FOX News Channel",
-    "id": "amzn1.dv.gti.f1379b52-28f0-412a-94fb-bf1a29368b73"
-  },
-  "Amazon.US.FS1": {
-    "name": "FS1",
-    "id": "amzn1.dv.gti.a04f1d3d-bcae-4d98-b22d-3f4b0775a1f6"
-  },
-  "Amazon.US.FS2": {
-    "name": "FS2",
-    "id": "amzn1.dv.gti.01e496d3-f073-471a-a43b-0b43107fce2b"
-  },
-  "Amazon.US.FOXBusiness": {
-    "name": "FOX Business",
-    "id": "amzn1.dv.gti.b87fffd8-7995-4b6d-b0b6-83326bf1b47a"
-  },
-  "Amazon.US.FOXWeather": {
-    "name": "FOX Weather",
-    "id": "amzn1.dv.gti.907c1249-2309-4e13-afdf-1766574d2e53"
-  },
-  "Amazon.US.BigTenNetwork": {
-    "name": "Big Ten Network",
-    "id": "amzn1.dv.gti.b85a224a-7886-4cca-9b8b-bff2390ba73b"
-  },
-  "Amazon.US.FOXDeportes": {
-    "name": "FOX Deportes",
-    "id": "amzn1.dv.gti.53e8af09-651e-4789-af86-1366914b6810"
-  },
-  "Amazon.US.FOXSoul": {
-    "name": "FOX Soul",
-    "id": "amzn1.dv.gti.1cd8e4e2-5b0f-457a-a2ec-c030d18ffd19"
-  },
-  "Amazon.US.TheTMZChannel": {
-    "name": "The TMZ Channel",
-    "id": "amzn1.dv.gti.23dac253-43f8-4bf4-8892-147723a72024"
-  },
-  "Amazon.US.TheMaskedSinger": {
-    "name": "The Masked Singer",
-    "id": "amzn1.dv.gti.a9ddb214-9841-4017-91ff-8580aaec6855"
-  },
-  "Amazon.US.FOXLocalLosAngeles": {
-    "name": "FOX Local Los Angeles",
-    "id": "amzn1.dv.gti.e90e9e92-71ac-4285-bc37-34ee3f067e6c"
-  },
-  "Amazon.US.FOXLocalDetroit": {
-    "name": "FOX Local Detroit",
-    "id": "amzn1.dv.gti.d446d8c8-af29-4b4b-99a6-2df616f7fbb7"
-  },
-  "Amazon.US.FOXLocalDallasFortWorth": {
-    "name": "FOX Local Dallas Fort Worth",
-    "id": "amzn1.dv.gti.064d8696-a191-43ac-9a73-610798d9e99d"
-  },
-  "Amazon.US.FOXLocalAtlanta": {
-    "name": "FOX Local Atlanta",
-    "id": "amzn1.dv.gti.861a9a1f-deb8-4824-a02d-b712eb42af86"
-  },
-  "Amazon.US.FOXLocalSanFrancisco": {
-    "name": "FOX Local San Francisco",
-    "id": "amzn1.dv.gti.f1d016a3-1589-4d96-a433-dbc8934b0173"
-  },
-  "Amazon.US.FOXLocalOrlando": {
-    "name": "FOX Local Orlando",
-    "id": "amzn1.dv.gti.187a6fe4-7af6-4294-876f-7f2fa09bbcfc"
-  },
-  "Amazon.US.FOXLocalChicago": {
-    "name": "FOX Local Chicago",
-    "id": "amzn1.dv.gti.aff58d1a-c822-4fe5-b5d8-6ee46a863c14"
-  },
-  "Amazon.US.FOXLocalPhiladelphia": {
-    "name": "FOX Local Philadelphia",
-    "id": "amzn1.dv.gti.f974b8c9-79ad-4896-b0f3-947ee1893b97"
-  },
-  "Amazon.US.FOXLOCALMinnesota": {
-    "name": "FOX LOCAL Minnesota",
-    "id": "amzn1.dv.gti.795cc149-61e6-44f7-8b7b-f42e397d7f7e"
-  },
-  "Amazon.US.FOXLocalAustin": {
-    "name": "FOX Local Austin",
-    "id": "amzn1.dv.gti.44b08143-fdd1-4976-a27f-3740553618ba"
-  },
-  "Amazon.US.FOXLocalMilwaukee": {
-    "name": "FOX Local Milwaukee",
-    "id": "amzn1.dv.gti.93bab040-596c-46d9-988e-f4efcb03edc6"
-  },
-  "Amazon.US.FOXLocalHouston": {
-    "name": "FOX Local Houston",
-    "id": "amzn1.dv.gti.882b4c97-996e-437e-8da6-fdc470240a3a"
-  },
-  "Amazon.US.FOXLocalPhoenix": {
-    "name": "FOX Local Phoenix",
-    "id": "amzn1.dv.gti.27ad26a8-1760-463a-8358-63e0eb7a4065"
-  },
-  "Amazon.US.FOXLocalWashingtonDC": {
-    "name": "FOX Local Washington DC",
-    "id": "amzn1.dv.gti.4c6250dd-6b3b-4e0f-a87e-c28e7053ba1a"
-  },
-  "Amazon.US.FOXLocalSeattle": {
-    "name": "FOX Local Seattle",
-    "id": "amzn1.dv.gti.4bfdd32e-3ea9-4d40-b1dc-0a2758418676"
-  },
-  "Amazon.US.FOXLocalNewYork": {
-    "name": "FOX Local New York",
-    "id": "amzn1.dv.gti.e1e55c10-f0e9-49f6-9a42-94c87f42b796"
-  },
-  "Amazon.US.FOXLocalTampaBay": {
-    "name": "FOX Local Tampa Bay",
-    "id": "amzn1.dv.gti.85b32b65-3711-4b0e-b822-6faf95c81ad5"
-  },
   "Amazon.US.KNBCbyPeacock": {
     "name": "KNBC by Peacock",
     "id": "amzn1.dv.gti.b5b4c3ac-38d0-4b9a-9e56-13def7ab4887"
@@ -710,6 +594,122 @@
   "Amazon.US.DatelineenEspanol": {
     "name": "Dateline en Español",
     "id": "amzn1.dv.gti.0ae2cfa4-5558-4b83-8ce2-88bef6aa4032"
+  },
+  "Amazon.US.FOX11LosAngeles": {
+    "name": "FOX 11 Los Angeles",
+    "id": "amzn1.dv.gti.5df157b2-5726-4fec-ba44-54dec4c41ea3"
+  },
+  "Amazon.US.Fox11Plus": {
+    "name": "Fox 11 Plus",
+    "id": "amzn1.dv.gti.971153a8-3362-4e9e-bc8b-8bb7bcaec16a"
+  },
+  "Amazon.US.FOXNewsChannel": {
+    "name": "FOX News Channel",
+    "id": "amzn1.dv.gti.f1379b52-28f0-412a-94fb-bf1a29368b73"
+  },
+  "Amazon.US.FS1": {
+    "name": "FS1",
+    "id": "amzn1.dv.gti.a04f1d3d-bcae-4d98-b22d-3f4b0775a1f6"
+  },
+  "Amazon.US.FS2": {
+    "name": "FS2",
+    "id": "amzn1.dv.gti.01e496d3-f073-471a-a43b-0b43107fce2b"
+  },
+  "Amazon.US.FOXBusiness": {
+    "name": "FOX Business",
+    "id": "amzn1.dv.gti.b87fffd8-7995-4b6d-b0b6-83326bf1b47a"
+  },
+  "Amazon.US.FOXWeather": {
+    "name": "FOX Weather",
+    "id": "amzn1.dv.gti.907c1249-2309-4e13-afdf-1766574d2e53"
+  },
+  "Amazon.US.BigTenNetwork": {
+    "name": "Big Ten Network",
+    "id": "amzn1.dv.gti.b85a224a-7886-4cca-9b8b-bff2390ba73b"
+  },
+  "Amazon.US.FOXDeportes": {
+    "name": "FOX Deportes",
+    "id": "amzn1.dv.gti.53e8af09-651e-4789-af86-1366914b6810"
+  },
+  "Amazon.US.FOXSoul": {
+    "name": "FOX Soul",
+    "id": "amzn1.dv.gti.1cd8e4e2-5b0f-457a-a2ec-c030d18ffd19"
+  },
+  "Amazon.US.TheTMZChannel": {
+    "name": "The TMZ Channel",
+    "id": "amzn1.dv.gti.23dac253-43f8-4bf4-8892-147723a72024"
+  },
+  "Amazon.US.TheMaskedSinger": {
+    "name": "The Masked Singer",
+    "id": "amzn1.dv.gti.a9ddb214-9841-4017-91ff-8580aaec6855"
+  },
+  "Amazon.US.FOXLocalLosAngeles": {
+    "name": "FOX Local Los Angeles",
+    "id": "amzn1.dv.gti.e90e9e92-71ac-4285-bc37-34ee3f067e6c"
+  },
+  "Amazon.US.FOXLocalDetroit": {
+    "name": "FOX Local Detroit",
+    "id": "amzn1.dv.gti.d446d8c8-af29-4b4b-99a6-2df616f7fbb7"
+  },
+  "Amazon.US.FOXLocalDallasFortWorth": {
+    "name": "FOX Local Dallas Fort Worth",
+    "id": "amzn1.dv.gti.064d8696-a191-43ac-9a73-610798d9e99d"
+  },
+  "Amazon.US.FOXLocalAtlanta": {
+    "name": "FOX Local Atlanta",
+    "id": "amzn1.dv.gti.861a9a1f-deb8-4824-a02d-b712eb42af86"
+  },
+  "Amazon.US.FOXLocalSanFrancisco": {
+    "name": "FOX Local San Francisco",
+    "id": "amzn1.dv.gti.f1d016a3-1589-4d96-a433-dbc8934b0173"
+  },
+  "Amazon.US.FOXLocalOrlando": {
+    "name": "FOX Local Orlando",
+    "id": "amzn1.dv.gti.187a6fe4-7af6-4294-876f-7f2fa09bbcfc"
+  },
+  "Amazon.US.FOXLocalChicago": {
+    "name": "FOX Local Chicago",
+    "id": "amzn1.dv.gti.aff58d1a-c822-4fe5-b5d8-6ee46a863c14"
+  },
+  "Amazon.US.FOXLocalPhiladelphia": {
+    "name": "FOX Local Philadelphia",
+    "id": "amzn1.dv.gti.f974b8c9-79ad-4896-b0f3-947ee1893b97"
+  },
+  "Amazon.US.FOXLOCALMinnesota": {
+    "name": "FOX LOCAL Minnesota",
+    "id": "amzn1.dv.gti.795cc149-61e6-44f7-8b7b-f42e397d7f7e"
+  },
+  "Amazon.US.FOXLocalAustin": {
+    "name": "FOX Local Austin",
+    "id": "amzn1.dv.gti.44b08143-fdd1-4976-a27f-3740553618ba"
+  },
+  "Amazon.US.FOXLocalMilwaukee": {
+    "name": "FOX Local Milwaukee",
+    "id": "amzn1.dv.gti.93bab040-596c-46d9-988e-f4efcb03edc6"
+  },
+  "Amazon.US.FOXLocalHouston": {
+    "name": "FOX Local Houston",
+    "id": "amzn1.dv.gti.882b4c97-996e-437e-8da6-fdc470240a3a"
+  },
+  "Amazon.US.FOXLocalPhoenix": {
+    "name": "FOX Local Phoenix",
+    "id": "amzn1.dv.gti.27ad26a8-1760-463a-8358-63e0eb7a4065"
+  },
+  "Amazon.US.FOXLocalWashingtonDC": {
+    "name": "FOX Local Washington DC",
+    "id": "amzn1.dv.gti.4c6250dd-6b3b-4e0f-a87e-c28e7053ba1a"
+  },
+  "Amazon.US.FOXLocalSeattle": {
+    "name": "FOX Local Seattle",
+    "id": "amzn1.dv.gti.4bfdd32e-3ea9-4d40-b1dc-0a2758418676"
+  },
+  "Amazon.US.FOXLocalNewYork": {
+    "name": "FOX Local New York",
+    "id": "amzn1.dv.gti.e1e55c10-f0e9-49f6-9a42-94c87f42b796"
+  },
+  "Amazon.US.FOXLocalTampaBay": {
+    "name": "FOX Local Tampa Bay",
+    "id": "amzn1.dv.gti.85b32b65-3711-4b0e-b822-6faf95c81ad5"
   },
   "Amazon.US.LaRosadeGuadalupe": {
     "name": "La Rosa de Guadalupe",
@@ -1598,14 +1598,6 @@
   "Amazon.US.MSGSportsZone": {
     "name": "MSG SportsZone",
     "id": "amzn1.dv.gti.fcbc0f30-29e7-45a3-a677-a0ffa6081744"
-  },
-  "Amazon.US.SportsGrid": {
-    "name": "SportsGrid",
-    "id": "amzn1.dv.gti.9abe88e3-09ec-4cf3-b972-b71f138db681"
-  },
-  "Amazon.US.NHLChannel": {
-    "name": "NHL Channel",
-    "id": "amzn1.dv.gti.fcd4316a-f18a-446f-aba1-afecd1ea73d8"
   },
   "Amazon.US.Big12Studios": {
     "name": "Big 12 Studios",
