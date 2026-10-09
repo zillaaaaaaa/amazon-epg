@@ -79,14 +79,6 @@
     "name": "AMC +",
     "id": "amzn1.dv.gti.baba2927-2767-5256-8eca-fcfd2ccc7959"
   },
-  "Amazon.US.beINSPORTS": {
-    "name": "beIN SPORTS",
-    "id": "amzn1.dv.gti.145396e8-17c3-4fd4-a443-13479d7a5c72"
-  },
-  "Amazon.US.beINSPORTSenEspanol": {
-    "name": "beIN SPORTS en Español",
-    "id": "amzn1.dv.gti.ced1e20d-2e30-4204-86c2-c0fb8b960b7d"
-  },
   "Amazon.US.CNNOriginals": {
     "name": "CNN Originals",
     "id": "amzn1.dv.gti.ddcc09e4-3f47-45cb-a61b-57c18bad0210"
@@ -98,6 +90,14 @@
   "Amazon.US.CNNInternational": {
     "name": "CNN International",
     "id": "amzn1.dv.gti.ab66ad81-f5c6-4fa3-8d24-bc8290bc41cf"
+  },
+  "Amazon.US.beINSPORTS": {
+    "name": "beIN SPORTS",
+    "id": "amzn1.dv.gti.145396e8-17c3-4fd4-a443-13479d7a5c72"
+  },
+  "Amazon.US.beINSPORTSenEspanol": {
+    "name": "beIN SPORTS en Español",
+    "id": "amzn1.dv.gti.ced1e20d-2e30-4204-86c2-c0fb8b960b7d"
   },
   "Amazon.US.France24EN": {
     "name": "France24 EN",
