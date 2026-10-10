@@ -1,4 +1,40 @@
 {
+  "Amazon.US.AMC": {
+    "name": "AMC",
+    "id": "amzn1.dv.gti.d6b9d2a9-982b-d852-5baa-19f74aea0a98"
+  },
+  "Amazon.US.IFC": {
+    "name": "IFC",
+    "id": "amzn1.dv.gti.70b9d2ab-4255-2743-3a94-e8c4909a1319"
+  },
+  "Amazon.US.TheWalkingDeadChannel": {
+    "name": "The Walking Dead Channel",
+    "id": "amzn1.dv.gti.a8bad16b-7da1-0ef6-face-1fcfa7bf0d30"
+  },
+  "Amazon.US.SundanceTV": {
+    "name": "Sundance TV",
+    "id": "amzn1.dv.gti.98b9d2ab-f323-8a56-d8b4-60c2b2bea776"
+  },
+  "Amazon.US.BBCAmerica": {
+    "name": "BBC America",
+    "id": "amzn1.dv.gti.a8b9d2aa-8cd7-4c74-85e1-bffd3f384993"
+  },
+  "Amazon.US.AMCPlus": {
+    "name": "AMC +",
+    "id": "amzn1.dv.gti.baba2927-2767-5256-8eca-fcfd2ccc7959"
+  },
+  "Amazon.US.CNNOriginals": {
+    "name": "CNN Originals",
+    "id": "amzn1.dv.gti.ddcc09e4-3f47-45cb-a61b-57c18bad0210"
+  },
+  "Amazon.US.CNNStream": {
+    "name": "CNN Stream",
+    "id": "amzn1.dv.gti.bc19c93a-298b-4485-84d6-3bb5ab3b80ce"
+  },
+  "Amazon.US.CNNInternational": {
+    "name": "CNN International",
+    "id": "amzn1.dv.gti.ab66ad81-f5c6-4fa3-8d24-bc8290bc41cf"
+  },
   "Amazon.US.CinemaxAction": {
     "name": "Cinemax Action",
     "id": "amzn1.dv.gti.f4ba51de-f362-f0da-6b2a-ead84c0f2eda"
@@ -39,58 +75,6 @@
     "name": "LiveNOW by FOX",
     "id": "amzn1.dv.gti.64039d4c-c753-44fc-8f3f-6af8113e4685"
   },
-  "Amazon.US.MGMPlusMARQUEE": {
-    "name": "MGM+ MARQUEE",
-    "id": "amzn1.dv.gti.46bb6fa7-cbcf-c9c4-b8e7-633673ed528d"
-  },
-  "Amazon.US.MGMPlusDRIVEIN": {
-    "name": "MGM+ DRIVE-IN",
-    "id": "amzn1.dv.gti.50bb6f4b-bf7a-3390-c329-ff127af9b88d"
-  },
-  "Amazon.US.MGMPlus": {
-    "name": "MGM+",
-    "id": "amzn1.dv.gti.f8bb6f4c-3669-0311-3748-61e0f9096921"
-  },
-  "Amazon.US.MGMPlusHITS": {
-    "name": "MGM+ HITS",
-    "id": "amzn1.dv.gti.b4bb6f97-38fc-ed66-6660-c71e04e0a99b"
-  },
-  "Amazon.US.AMC": {
-    "name": "AMC",
-    "id": "amzn1.dv.gti.d6b9d2a9-982b-d852-5baa-19f74aea0a98"
-  },
-  "Amazon.US.IFC": {
-    "name": "IFC",
-    "id": "amzn1.dv.gti.70b9d2ab-4255-2743-3a94-e8c4909a1319"
-  },
-  "Amazon.US.TheWalkingDeadChannel": {
-    "name": "The Walking Dead Channel",
-    "id": "amzn1.dv.gti.a8bad16b-7da1-0ef6-face-1fcfa7bf0d30"
-  },
-  "Amazon.US.SundanceTV": {
-    "name": "Sundance TV",
-    "id": "amzn1.dv.gti.98b9d2ab-f323-8a56-d8b4-60c2b2bea776"
-  },
-  "Amazon.US.BBCAmerica": {
-    "name": "BBC America",
-    "id": "amzn1.dv.gti.a8b9d2aa-8cd7-4c74-85e1-bffd3f384993"
-  },
-  "Amazon.US.AMCPlus": {
-    "name": "AMC +",
-    "id": "amzn1.dv.gti.baba2927-2767-5256-8eca-fcfd2ccc7959"
-  },
-  "Amazon.US.CNNOriginals": {
-    "name": "CNN Originals",
-    "id": "amzn1.dv.gti.ddcc09e4-3f47-45cb-a61b-57c18bad0210"
-  },
-  "Amazon.US.CNNStream": {
-    "name": "CNN Stream",
-    "id": "amzn1.dv.gti.bc19c93a-298b-4485-84d6-3bb5ab3b80ce"
-  },
-  "Amazon.US.CNNInternational": {
-    "name": "CNN International",
-    "id": "amzn1.dv.gti.ab66ad81-f5c6-4fa3-8d24-bc8290bc41cf"
-  },
   "Amazon.US.beINSPORTS": {
     "name": "beIN SPORTS",
     "id": "amzn1.dv.gti.145396e8-17c3-4fd4-a443-13479d7a5c72"
@@ -110,22 +94,6 @@
   "Amazon.US.France24FR": {
     "name": "France24 FR",
     "id": "amzn1.dv.gti.5a5647f2-a649-4300-8b28-e3022bb773cb"
-  },
-  "Amazon.US.MLBNetwork": {
-    "name": "MLB Network",
-    "id": "amzn1.dv.gti.4df07d23-54fa-4bee-8d95-b96480800216"
-  },
-  "Amazon.US.MLFandBassChannel": {
-    "name": "MLF and Bass Channel",
-    "id": "amzn1.dv.gti.c2739131-85f8-4014-bf63-54e074956555"
-  },
-  "Amazon.US.HuntStream": {
-    "name": "HuntStream",
-    "id": "amzn1.dv.gti.c86668e7-d5bb-4d66-8992-a931cd99ebeb"
-  },
-  "Amazon.US.NBATVHDTV": {
-    "name": "NBA TV HDTV",
-    "id": "amzn1.dv.gti.eebae9c5-883f-c79f-abc6-092683038e6d"
   },
   "Amazon.US.HBODrama": {
     "name": "HBO Drama",
@@ -154,6 +122,38 @@
   "Amazon.US.HBOLatino": {
     "name": "HBO Latino",
     "id": "amzn1.dv.gti.0bcf0a87-ebbc-4f0c-9e83-6b4f9bfda936"
+  },
+  "Amazon.US.MLBNetwork": {
+    "name": "MLB Network",
+    "id": "amzn1.dv.gti.4df07d23-54fa-4bee-8d95-b96480800216"
+  },
+  "Amazon.US.MLFandBassChannel": {
+    "name": "MLF and Bass Channel",
+    "id": "amzn1.dv.gti.c2739131-85f8-4014-bf63-54e074956555"
+  },
+  "Amazon.US.HuntStream": {
+    "name": "HuntStream",
+    "id": "amzn1.dv.gti.c86668e7-d5bb-4d66-8992-a931cd99ebeb"
+  },
+  "Amazon.US.NBATVHDTV": {
+    "name": "NBA TV HDTV",
+    "id": "amzn1.dv.gti.eebae9c5-883f-c79f-abc6-092683038e6d"
+  },
+  "Amazon.US.MGMPlusMARQUEE": {
+    "name": "MGM+ MARQUEE",
+    "id": "amzn1.dv.gti.46bb6fa7-cbcf-c9c4-b8e7-633673ed528d"
+  },
+  "Amazon.US.MGMPlusDRIVEIN": {
+    "name": "MGM+ DRIVE-IN",
+    "id": "amzn1.dv.gti.50bb6f4b-bf7a-3390-c329-ff127af9b88d"
+  },
+  "Amazon.US.MGMPlus": {
+    "name": "MGM+",
+    "id": "amzn1.dv.gti.f8bb6f4c-3669-0311-3748-61e0f9096921"
+  },
+  "Amazon.US.MGMPlusHITS": {
+    "name": "MGM+ HITS",
+    "id": "amzn1.dv.gti.b4bb6f97-38fc-ed66-6660-c71e04e0a99b"
   },
   "Amazon.US.Showtime": {
     "name": "Showtime",
@@ -919,6 +919,22 @@
     "name": "Murder, She Wrote",
     "id": "amzn1.dv.gti.0fba18fd-1829-4eab-862c-be8cec332d3d"
   },
+  "Amazon.US.ArrestedDevelopment": {
+    "name": "Arrested Development",
+    "id": "amzn1.dv.gti.d8a166b0-2f69-4b27-b928-cc6fa092a60a"
+  },
+  "Amazon.US.Blackish": {
+    "name": "Black-ish",
+    "id": "amzn1.dv.gti.3c33a30a-2862-4b8d-af02-551bebb54b4b"
+  },
+  "Amazon.US.FreshOfftheBoat": {
+    "name": "Fresh Off the Boat",
+    "id": "amzn1.dv.gti.2a075125-0452-4c9a-ba70-e7e42cbed1ef"
+  },
+  "Amazon.US.Scrubs": {
+    "name": "Scrubs",
+    "id": "amzn1.dv.gti.8d233d5e-26cf-4c75-8d28-cd9c9c666015"
+  },
   "Amazon.US.TheIncredibleDrPol": {
     "name": "The Incredible Dr. Pol",
     "id": "amzn1.dv.gti.65fc5892-0942-4545-91a9-1c96ac73ffd4"
@@ -1671,10 +1687,6 @@
     "name": "Crime ThrillHer",
     "id": "amzn1.dv.gti.8ad3bbbb-c2d0-40f1-9ed0-8addcdb0dda3"
   },
-  "Amazon.US.TeenWolf": {
-    "name": "Teen Wolf",
-    "id": "amzn1.dv.gti.49b64ef8-cdf3-4d6e-b540-b3ce849b3b2a"
-  },
   "Amazon.US.ThePractice": {
     "name": "The Practice",
     "id": "amzn1.dv.gti.1218bb78-14bc-4d8d-88fe-2714b105ea7d"
@@ -1942,10 +1954,6 @@
   "Amazon.US.TheStandUpChannel": {
     "name": "The Stand-Up Channel",
     "id": "amzn1.dv.gti.0227ac9b-6553-45d2-a231-9716f8db18e1"
-  },
-  "Amazon.US.AlwaysFunny": {
-    "name": "Always Funny",
-    "id": "amzn1.dv.gti.318a2fce-94ae-4c3f-8a6d-7c3b8a12b256"
   },
   "Amazon.US.Bizaar": {
     "name": "Bizaar",
@@ -2359,30 +2367,6 @@
     "name": "Stargate",
     "id": "amzn1.dv.gti.5d12ae68-4392-46a8-84c3-95ea9a1067d9"
   },
-  "Amazon.US.TheDeadFiles": {
-    "name": "The Dead Files",
-    "id": "amzn1.dv.gti.658ecd3b-23de-4e1c-87f9-dd8c7c86276e"
-  },
-  "Amazon.US.GhostHunters": {
-    "name": "Ghost Hunters",
-    "id": "amzn1.dv.gti.6640e7c0-e1f3-44b4-9699-76c2c01422aa"
-  },
-  "Amazon.US.UnXplainedZone": {
-    "name": "UnXplained Zone",
-    "id": "amzn1.dv.gti.5ad7c4ec-5288-43fa-b5ef-19e70df36950"
-  },
-  "Amazon.US.MonstersAreReal": {
-    "name": "Monsters Are Real",
-    "id": "amzn1.dv.gti.a1fc65dc-2383-4217-abf3-0531d0a3a357"
-  },
-  "Amazon.US.IWasHaunted": {
-    "name": "I Was Haunted",
-    "id": "amzn1.dv.gti.d9e47782-2316-44f4-a74b-98f3b4c3663a"
-  },
-  "Amazon.US.GhostsareReal": {
-    "name": "Ghosts are Real",
-    "id": "amzn1.dv.gti.6f7845d4-3261-449c-9968-db59c19fcfe1"
-  },
   "Amazon.US.TheOuterLimits": {
     "name": "The Outer Limits",
     "id": "amzn1.dv.gti.dd8da9eb-d282-4967-8063-9dd84029eac7"
@@ -2390,10 +2374,6 @@
   "Amazon.US.DealZone": {
     "name": "Deal Zone",
     "id": "amzn1.dv.gti.cab564b4-d64f-4cfb-89e3-6a9784e34d4f"
-  },
-  "Amazon.US.HauntTV": {
-    "name": "HauntTV",
-    "id": "amzn1.dv.gti.4d76f451-63b6-4509-813c-76fe482db8c4"
   },
   "Amazon.US.AlienNationbyDUST": {
     "name": "Alien Nation by DUST",
@@ -2403,17 +2383,9 @@
     "name": "Classic Doctor Who",
     "id": "amzn1.dv.gti.42dfe367-b555-49f9-bdcd-03b9823bc3c5"
   },
-  "Amazon.US.ParanormalFiles": {
-    "name": "Paranormal Files",
-    "id": "amzn1.dv.gti.3edc0b17-4a06-42ce-9eef-903a9795264e"
-  },
   "Amazon.US.BeyondBelief": {
     "name": "Beyond Belief",
     "id": "amzn1.dv.gti.3075b713-11d7-4985-b1ef-fc4105f05176"
-  },
-  "Amazon.US.HorrorStories": {
-    "name": "Horror Stories",
-    "id": "amzn1.dv.gti.2e2c19da-51d4-4284-945a-c77c61b5547e"
   },
   "Amazon.US.OuterSphere": {
     "name": "OuterSphere",
@@ -2491,14 +2463,6 @@
     "name": "Leave it to Beaver",
     "id": "amzn1.dv.gti.2e2fa521-1e68-4e20-94f9-ccaad1084c8e"
   },
-  "Amazon.US.AlfredHitchcockPresents": {
-    "name": "Alfred Hitchcock Presents",
-    "id": "amzn1.dv.gti.61502133-c30b-4830-9919-03ac2d717be7"
-  },
-  "Amazon.US.Bewitched": {
-    "name": "Bewitched",
-    "id": "amzn1.dv.gti.dfd8ba8a-d201-4953-bb01-e03f546d4181"
-  },
   "Amazon.US.SonyOneFaves": {
     "name": "Sony One Faves",
     "id": "amzn1.dv.gti.5ba12944-84db-4510-9403-d28f5a60abb8"
@@ -2506,10 +2470,6 @@
   "Amazon.US.TheDickVanDykeShow": {
     "name": "The Dick Van Dyke Show",
     "id": "amzn1.dv.gti.52ad08f7-9921-475d-ab48-4c0dec56668f"
-  },
-  "Amazon.US.UniversalMonsters": {
-    "name": "Universal Monsters",
-    "id": "amzn1.dv.gti.86d532f7-d0ee-4364-8e13-19b9bbbeb322"
   },
   "Amazon.US.TheThreeStoogesPlus": {
     "name": "The Three Stooges +",
@@ -2526,10 +2486,6 @@
   "Amazon.US.TheBobRossChannel": {
     "name": "The Bob Ross Channel",
     "id": "amzn1.dv.gti.014a704f-87a4-45b7-a1a3-e55fd166d784"
-  },
-  "Amazon.US.TheAddamsFamily": {
-    "name": "The Addams Family",
-    "id": "amzn1.dv.gti.90e3f2cb-d941-42a6-8051-2b7cf78d03dc"
   },
   "Amazon.US.Hunter": {
     "name": "Hunter",
@@ -2599,10 +2555,6 @@
     "name": "All-Out Alaska",
     "id": "amzn1.dv.gti.c57e3ce6-7d9e-4aca-b849-fcedc8856a57"
   },
-  "Amazon.US.Meateater": {
-    "name": "Meateater",
-    "id": "amzn1.dv.gti.d1b87981-1e06-46cc-b077-6c03efb441c9"
-  },
   "Amazon.US.IShouldntBeAlive": {
     "name": "I Shouldn't Be Alive",
     "id": "amzn1.dv.gti.c494358c-d90f-4e1d-ac7c-7f1e595429d2"
@@ -2634,6 +2586,10 @@
   "Amazon.US.DroneTV": {
     "name": "DroneTV",
     "id": "amzn1.dv.gti.63b5829f-7fa6-4b8b-b831-8331657fef55"
+  },
+  "Amazon.US.Meateater": {
+    "name": "Meateater",
+    "id": "amzn1.dv.gti.d1b87981-1e06-46cc-b077-6c03efb441c9"
   },
   "Amazon.US.MecumTV": {
     "name": "Mecum TV",
@@ -3099,6 +3055,10 @@
     "name": "Hallmark Movies & More",
     "id": "amzn1.dv.gti.ae79bd85-6d9c-4f34-8055-8e00c044bf5b"
   },
+  "Amazon.US.RockyPlusCreed": {
+    "name": "Rocky + Creed",
+    "id": "amzn1.dv.gti.671bf253-daed-4721-a90e-1b82b974503d"
+  },
   "Amazon.US.LifetimeMovieFavorites": {
     "name": "Lifetime Movie Favorites",
     "id": "amzn1.dv.gti.12b9d381-2d73-483c-975d-311416a1adf2"
@@ -3195,25 +3155,97 @@
     "name": "RiffTrax",
     "id": "amzn1.dv.gti.0f7e93b0-5ec6-453f-8829-6869c2f607e1"
   },
-  "Amazon.US.AMCThrillers": {
-    "name": "AMC Thrillers",
-    "id": "amzn1.dv.gti.3ae134a2-6ae0-437c-af4a-c35122365c2e"
-  },
   "Amazon.US.MGMPresentsHorror": {
     "name": "MGM Presents: Horror",
     "id": "amzn1.dv.gti.fec0358e-8003-401a-9c15-4f3b8d82184b"
   },
-  "Amazon.US.ScreamboxTV": {
-    "name": "ScreamboxTV",
-    "id": "amzn1.dv.gti.1fa777dc-7115-4ad8-bdca-a9992e9c8d9e"
+  "Amazon.US.TheAddamsFamily": {
+    "name": "The Addams Family",
+    "id": "amzn1.dv.gti.90e3f2cb-d941-42a6-8051-2b7cf78d03dc"
   },
   "Amazon.US.ScaresbyShudder": {
     "name": "Scares by Shudder",
     "id": "amzn1.dv.gti.9ee147aa-69e1-4908-8d3f-743d08f4effb"
   },
+  "Amazon.US.ScreamboxTV": {
+    "name": "ScreamboxTV",
+    "id": "amzn1.dv.gti.1fa777dc-7115-4ad8-bdca-a9992e9c8d9e"
+  },
+  "Amazon.US.HorrorbyALTER": {
+    "name": "Horror by ALTER",
+    "id": "amzn1.dv.gti.7642c682-fccb-49f3-8a77-0d707173ad05"
+  },
+  "Amazon.US.HorrorStories": {
+    "name": "Horror Stories",
+    "id": "amzn1.dv.gti.2e2c19da-51d4-4284-945a-c77c61b5547e"
+  },
+  "Amazon.US.HauntTV": {
+    "name": "HauntTV",
+    "id": "amzn1.dv.gti.4d76f451-63b6-4509-813c-76fe482db8c4"
+  },
+  "Amazon.US.UniversalMonsters": {
+    "name": "Universal Monsters",
+    "id": "amzn1.dv.gti.86d532f7-d0ee-4364-8e13-19b9bbbeb322"
+  },
+  "Amazon.US.FearZone": {
+    "name": "Fear Zone",
+    "id": "amzn1.dv.gti.99a0c51c-dda6-4e44-9090-fb844cdf06ec"
+  },
   "Amazon.US.TheAsylumMovieChannel": {
     "name": "The Asylum Movie Channel",
     "id": "amzn1.dv.gti.39eac8a4-9d6e-417d-8030-6214b7f5a990"
+  },
+  "Amazon.US.TheDeadFiles": {
+    "name": "The Dead Files",
+    "id": "amzn1.dv.gti.658ecd3b-23de-4e1c-87f9-dd8c7c86276e"
+  },
+  "Amazon.US.AMCThrillers": {
+    "name": "AMC Thrillers",
+    "id": "amzn1.dv.gti.3ae134a2-6ae0-437c-af4a-c35122365c2e"
+  },
+  "Amazon.US.AlfredHitchcockPresents": {
+    "name": "Alfred Hitchcock Presents",
+    "id": "amzn1.dv.gti.61502133-c30b-4830-9919-03ac2d717be7"
+  },
+  "Amazon.US.TeenWolf": {
+    "name": "Teen Wolf",
+    "id": "amzn1.dv.gti.49b64ef8-cdf3-4d6e-b540-b3ce849b3b2a"
+  },
+  "Amazon.US.Bewitched": {
+    "name": "Bewitched",
+    "id": "amzn1.dv.gti.dfd8ba8a-d201-4953-bb01-e03f546d4181"
+  },
+  "Amazon.US.GhostHunters": {
+    "name": "Ghost Hunters",
+    "id": "amzn1.dv.gti.6640e7c0-e1f3-44b4-9699-76c2c01422aa"
+  },
+  "Amazon.US.IWasHaunted": {
+    "name": "I Was Haunted",
+    "id": "amzn1.dv.gti.d9e47782-2316-44f4-a74b-98f3b4c3663a"
+  },
+  "Amazon.US.GhostsareReal": {
+    "name": "Ghosts are Real",
+    "id": "amzn1.dv.gti.6f7845d4-3261-449c-9968-db59c19fcfe1"
+  },
+  "Amazon.US.ParanormalFiles": {
+    "name": "Paranormal Files",
+    "id": "amzn1.dv.gti.3edc0b17-4a06-42ce-9eef-903a9795264e"
+  },
+  "Amazon.US.ParanormalChronicles": {
+    "name": "Paranormal Chronicles",
+    "id": "amzn1.dv.gti.e49fdff8-625c-4ab3-8ce6-3c5a84edcfb7"
+  },
+  "Amazon.US.MonstersAreReal": {
+    "name": "Monsters Are Real",
+    "id": "amzn1.dv.gti.a1fc65dc-2383-4217-abf3-0531d0a3a357"
+  },
+  "Amazon.US.UnXplainedZone": {
+    "name": "UnXplained Zone",
+    "id": "amzn1.dv.gti.5ad7c4ec-5288-43fa-b5ef-19e70df36950"
+  },
+  "Amazon.US.AlwaysFunny": {
+    "name": "Always Funny",
+    "id": "amzn1.dv.gti.318a2fce-94ae-4c3f-8a6d-7c3b8a12b256"
   },
   "Amazon.US.MysteryScienceTheater3000": {
     "name": "Mystery Science Theater 3000",
@@ -4527,10 +4559,6 @@
     "name": "XITE EDM",
     "id": "amzn1.dv.gti.256bc0c4-a35e-43e3-bcac-7dcf60c02e10"
   },
-  "Amazon.US.ParanormalChronicles": {
-    "name": "Paranormal Chronicles",
-    "id": "amzn1.dv.gti.e49fdff8-625c-4ab3-8ce6-3c5a84edcfb7"
-  },
   "Amazon.US.Andromeda": {
     "name": "Andromeda",
     "id": "amzn1.dv.gti.1b71dd27-7769-4bfa-b567-26581b5b41ca"
@@ -4543,9 +4571,9 @@
     "name": "Spizee & Dental Digest",
     "id": "amzn1.dv.gti.84dd5db1-4aeb-44f9-a117-ea0789ffdf7a"
   },
-  "Amazon.US.HorrorbyALTER": {
-    "name": "Horror by ALTER",
-    "id": "amzn1.dv.gti.7642c682-fccb-49f3-8a77-0d707173ad05"
+  "Amazon.US.TheTrevorNoahChannel": {
+    "name": "The Trevor Noah Channel",
+    "id": "amzn1.dv.gti.16c1c314-e900-47e8-aaa3-10a1e4d51f3e"
   },
   "Amazon.US.EYstreem": {
     "name": "EYstreem",
@@ -4579,32 +4607,8 @@
     "name": "Lionsgate Network",
     "id": "amzn1.dv.gti.698d6511-fc24-482e-9ebb-f78db5599fdf"
   },
-  "Amazon.US.FearZone": {
-    "name": "Fear Zone",
-    "id": "amzn1.dv.gti.99a0c51c-dda6-4e44-9090-fb844cdf06ec"
-  },
-  "Amazon.US.RockyPlusCreed": {
-    "name": "Rocky + Creed",
-    "id": "amzn1.dv.gti.671bf253-daed-4721-a90e-1b82b974503d"
-  },
-  "Amazon.US.ArrestedDevelopment": {
-    "name": "Arrested Development",
-    "id": "amzn1.dv.gti.d8a166b0-2f69-4b27-b928-cc6fa092a60a"
-  },
   "Amazon.US.SWACTV": {
     "name": "SWAC TV",
     "id": "amzn1.dv.gti.0fdf88a9-2bbf-4e1c-8953-645c2a0ea264"
-  },
-  "Amazon.US.Blackish": {
-    "name": "Black-ish",
-    "id": "amzn1.dv.gti.3c33a30a-2862-4b8d-af02-551bebb54b4b"
-  },
-  "Amazon.US.FreshOfftheBoat": {
-    "name": "Fresh Off the Boat",
-    "id": "amzn1.dv.gti.2a075125-0452-4c9a-ba70-e7e42cbed1ef"
-  },
-  "Amazon.US.Scrubs": {
-    "name": "Scrubs",
-    "id": "amzn1.dv.gti.8d233d5e-26cf-4c75-8d28-cd9c9c666015"
   }
 }
