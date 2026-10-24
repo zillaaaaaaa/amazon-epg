@@ -15,14 +15,6 @@
     "name": "LiveNOW by FOX",
     "id": "amzn1.dv.gti.64039d4c-c753-44fc-8f3f-6af8113e4685"
   },
-  "Amazon.US.beINSPORTS": {
-    "name": "beIN SPORTS",
-    "id": "amzn1.dv.gti.145396e8-17c3-4fd4-a443-13479d7a5c72"
-  },
-  "Amazon.US.beINSPORTSenEspanol": {
-    "name": "beIN SPORTS en Español",
-    "id": "amzn1.dv.gti.ced1e20d-2e30-4204-86c2-c0fb8b960b7d"
-  },
   "Amazon.US.MGMPlusMARQUEE": {
     "name": "MGM+ MARQUEE",
     "id": "amzn1.dv.gti.46bb6fa7-cbcf-c9c4-b8e7-633673ed528d"
@@ -38,6 +30,14 @@
   "Amazon.US.MGMPlusHITS": {
     "name": "MGM+ HITS",
     "id": "amzn1.dv.gti.b4bb6f97-38fc-ed66-6660-c71e04e0a99b"
+  },
+  "Amazon.US.beINSPORTS": {
+    "name": "beIN SPORTS",
+    "id": "amzn1.dv.gti.145396e8-17c3-4fd4-a443-13479d7a5c72"
+  },
+  "Amazon.US.beINSPORTSenEspanol": {
+    "name": "beIN SPORTS en Español",
+    "id": "amzn1.dv.gti.ced1e20d-2e30-4204-86c2-c0fb8b960b7d"
   },
   "Amazon.US.CinemaxAction": {
     "name": "Cinemax Action",
@@ -163,13 +163,13 @@
     "name": "Showtime West",
     "id": "amzn1.dv.gti.4aba520c-dc9e-0d00-b782-b51d12895396"
   },
-  "Amazon.US.FOX5NewYork": {
-    "name": "FOX 5 New York",
-    "id": "amzn1.dv.gti.b5058f78-292f-4d51-96b4-c2a294327dd6"
+  "Amazon.US.FOX11LosAngeles": {
+    "name": "FOX 11 Los Angeles",
+    "id": "amzn1.dv.gti.5df157b2-5726-4fec-ba44-54dec4c41ea3"
   },
-  "Amazon.US.My9": {
-    "name": "My9",
-    "id": "amzn1.dv.gti.29c52d19-c86b-4f2f-bbcf-c7f8ad7322fd"
+  "Amazon.US.Fox11Plus": {
+    "name": "Fox 11 Plus",
+    "id": "amzn1.dv.gti.971153a8-3362-4e9e-bc8b-8bb7bcaec16a"
   },
   "Amazon.US.FOXNewsChannel": {
     "name": "FOX News Channel",
@@ -302,10 +302,6 @@
   "Amazon.US.ScreenPix": {
     "name": "ScreenPix",
     "id": "amzn1.dv.gti.a9c110cb-98b4-448f-8263-7d63ec4faee5"
-  },
-  "Amazon.US.SNY": {
-    "name": "SNY",
-    "id": "amzn1.dv.gti.35fec8d7-e8d6-451e-a0eb-5e7ca3cb874e"
   },
   "Amazon.US.StarzinBlack": {
     "name": "Starz in Black",
@@ -519,9 +515,9 @@
     "name": "CBS News Colorado",
     "id": "amzn1.dv.gti.d0fb83fd-08db-43a1-a00a-ef4a77368fd4"
   },
-  "Amazon.US.WNBCbyPeacock": {
-    "name": "WNBC by Peacock",
-    "id": "amzn1.dv.gti.4d50d30e-ece0-43d8-8cfb-f9a34300deb0"
+  "Amazon.US.KNBCbyPeacock": {
+    "name": "KNBC by Peacock",
+    "id": "amzn1.dv.gti.b5b4c3ac-38d0-4b9a-9e56-13def7ab4887"
   },
   "Amazon.US.PremierLeagueTV": {
     "name": "Premier League TV",
@@ -887,21 +883,21 @@
     "name": "Todo Novelas Mas Pasiones",
     "id": "amzn1.dv.gti.a04d3f26-5ccc-46d2-8974-346e4e060712"
   },
-  "Amazon.US.ConnecticutPublicPBSWEDH": {
-    "name": "Connecticut Public (PBS WEDH)",
-    "id": "amzn1.dv.gti.d3df53dd-6de3-4686-9985-7a516d88665f"
+  "Amazon.US.KLCSPublicMediaPBSKLCS": {
+    "name": "KLCS Public Media (PBS KLCS)",
+    "id": "amzn1.dv.gti.4f296149-caa7-4102-98c0-a1b6baae402f"
   },
-  "Amazon.US.NJPBSPBSWNJT": {
-    "name": "NJ PBS (PBS WNJT)",
-    "id": "amzn1.dv.gti.7c47ace0-2732-4d58-bc32-a14064007ebf"
+  "Amazon.US.PBSSoCalPBSKOCE": {
+    "name": "PBS SoCal (PBS KOCE)",
+    "id": "amzn1.dv.gti.3b112ae4-4f0b-48a5-9d3b-8aa1568f44ba"
   },
-  "Amazon.US.THIRTEENPBSPBSWNET": {
-    "name": "THIRTEEN PBS (PBS WNET)",
-    "id": "amzn1.dv.gti.a9170586-f780-4ef9-91dc-47994b32f899"
+  "Amazon.US.PBSSoCalPlusPBSKCET": {
+    "name": "PBS SoCal Plus (PBS KCET)",
+    "id": "amzn1.dv.gti.45165fe7-19a0-446e-9336-cd322971954c"
   },
-  "Amazon.US.WLIWPBS": {
-    "name": "WLIW PBS",
-    "id": "amzn1.dv.gti.1169f82f-2263-4634-b2ef-14cbe8557799"
+  "Amazon.US.KVCRPBSKVCR": {
+    "name": "KVCR (PBS KVCR)",
+    "id": "amzn1.dv.gti.e7e29a5a-db43-44ca-bf60-75717e89c418"
   },
   "Amazon.US.LawAndOrder": {
     "name": "Law & Order",
@@ -3314,6 +3310,10 @@
   "Amazon.US.TelemundoSuroeste": {
     "name": "Telemundo Suroeste",
     "id": "amzn1.dv.gti.332df639-daab-4720-9112-82cd0bd15e21"
+  },
+  "Amazon.US.SLVRSoCal": {
+    "name": "SLVR SoCal",
+    "id": "amzn1.dv.gti.fa6ed1fe-bfdb-4bb8-8538-b9e6545be237"
   },
   "Amazon.US.TelemundoPuertoRico": {
     "name": "Telemundo Puerto Rico",
