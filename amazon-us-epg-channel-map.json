@@ -1,31 +1,35 @@
 {
-  "Amazon.US.CNNOriginals": {
-    "name": "CNN Originals",
-    "id": "amzn1.dv.gti.ddcc09e4-3f47-45cb-a61b-57c18bad0210"
+  "Amazon.US.AMC": {
+    "name": "AMC",
+    "id": "amzn1.dv.gti.d6b9d2a9-982b-d852-5baa-19f74aea0a98"
   },
-  "Amazon.US.CNNStream": {
-    "name": "CNN Stream",
-    "id": "amzn1.dv.gti.bc19c93a-298b-4485-84d6-3bb5ab3b80ce"
+  "Amazon.US.IFC": {
+    "name": "IFC",
+    "id": "amzn1.dv.gti.70b9d2ab-4255-2743-3a94-e8c4909a1319"
   },
-  "Amazon.US.CNNInternational": {
-    "name": "CNN International",
-    "id": "amzn1.dv.gti.ab66ad81-f5c6-4fa3-8d24-bc8290bc41cf"
+  "Amazon.US.TheWalkingDeadChannel": {
+    "name": "The Walking Dead Channel",
+    "id": "amzn1.dv.gti.a8bad16b-7da1-0ef6-face-1fcfa7bf0d30"
   },
-  "Amazon.US.MGMPlusMARQUEE": {
-    "name": "MGM+ MARQUEE",
-    "id": "amzn1.dv.gti.46bb6fa7-cbcf-c9c4-b8e7-633673ed528d"
+  "Amazon.US.SundanceTV": {
+    "name": "Sundance TV",
+    "id": "amzn1.dv.gti.98b9d2ab-f323-8a56-d8b4-60c2b2bea776"
   },
-  "Amazon.US.MGMPlusDRIVEIN": {
-    "name": "MGM+ DRIVE-IN",
-    "id": "amzn1.dv.gti.50bb6f4b-bf7a-3390-c329-ff127af9b88d"
+  "Amazon.US.BBCAmerica": {
+    "name": "BBC America",
+    "id": "amzn1.dv.gti.a8b9d2aa-8cd7-4c74-85e1-bffd3f384993"
   },
-  "Amazon.US.MGMPlus": {
-    "name": "MGM+",
-    "id": "amzn1.dv.gti.f8bb6f4c-3669-0311-3748-61e0f9096921"
+  "Amazon.US.AMCPlus": {
+    "name": "AMC +",
+    "id": "amzn1.dv.gti.baba2927-2767-5256-8eca-fcfd2ccc7959"
   },
-  "Amazon.US.MGMPlusHITS": {
-    "name": "MGM+ HITS",
-    "id": "amzn1.dv.gti.b4bb6f97-38fc-ed66-6660-c71e04e0a99b"
+  "Amazon.US.beINSPORTS": {
+    "name": "beIN SPORTS",
+    "id": "amzn1.dv.gti.145396e8-17c3-4fd4-a443-13479d7a5c72"
+  },
+  "Amazon.US.beINSPORTSenEspanol": {
+    "name": "beIN SPORTS en Español",
+    "id": "amzn1.dv.gti.ced1e20d-2e30-4204-86c2-c0fb8b960b7d"
   },
   "Amazon.US.FoxWeather": {
     "name": "Fox Weather",
@@ -67,65 +71,33 @@
     "name": "MAX Latino East",
     "id": "amzn1.dv.gti.76ba51df-6aec-f8aa-7f4a-4a7071571ec7"
   },
-  "Amazon.US.AMC": {
-    "name": "AMC",
-    "id": "amzn1.dv.gti.d6b9d2a9-982b-d852-5baa-19f74aea0a98"
+  "Amazon.US.CNNOriginals": {
+    "name": "CNN Originals",
+    "id": "amzn1.dv.gti.ddcc09e4-3f47-45cb-a61b-57c18bad0210"
   },
-  "Amazon.US.IFC": {
-    "name": "IFC",
-    "id": "amzn1.dv.gti.70b9d2ab-4255-2743-3a94-e8c4909a1319"
+  "Amazon.US.CNNStream": {
+    "name": "CNN Stream",
+    "id": "amzn1.dv.gti.bc19c93a-298b-4485-84d6-3bb5ab3b80ce"
   },
-  "Amazon.US.TheWalkingDeadChannel": {
-    "name": "The Walking Dead Channel",
-    "id": "amzn1.dv.gti.a8bad16b-7da1-0ef6-face-1fcfa7bf0d30"
+  "Amazon.US.CNNInternational": {
+    "name": "CNN International",
+    "id": "amzn1.dv.gti.ab66ad81-f5c6-4fa3-8d24-bc8290bc41cf"
   },
-  "Amazon.US.SundanceTV": {
-    "name": "Sundance TV",
-    "id": "amzn1.dv.gti.98b9d2ab-f323-8a56-d8b4-60c2b2bea776"
+  "Amazon.US.MGMPlusMARQUEE": {
+    "name": "MGM+ MARQUEE",
+    "id": "amzn1.dv.gti.46bb6fa7-cbcf-c9c4-b8e7-633673ed528d"
   },
-  "Amazon.US.BBCAmerica": {
-    "name": "BBC America",
-    "id": "amzn1.dv.gti.a8b9d2aa-8cd7-4c74-85e1-bffd3f384993"
+  "Amazon.US.MGMPlusDRIVEIN": {
+    "name": "MGM+ DRIVE-IN",
+    "id": "amzn1.dv.gti.50bb6f4b-bf7a-3390-c329-ff127af9b88d"
   },
-  "Amazon.US.AMCPlus": {
-    "name": "AMC +",
-    "id": "amzn1.dv.gti.baba2927-2767-5256-8eca-fcfd2ccc7959"
+  "Amazon.US.MGMPlus": {
+    "name": "MGM+",
+    "id": "amzn1.dv.gti.f8bb6f4c-3669-0311-3748-61e0f9096921"
   },
-  "Amazon.US.beINSPORTS": {
-    "name": "beIN SPORTS",
-    "id": "amzn1.dv.gti.145396e8-17c3-4fd4-a443-13479d7a5c72"
-  },
-  "Amazon.US.beINSPORTSenEspanol": {
-    "name": "beIN SPORTS en Español",
-    "id": "amzn1.dv.gti.ced1e20d-2e30-4204-86c2-c0fb8b960b7d"
-  },
-  "Amazon.US.France24EN": {
-    "name": "France24 EN",
-    "id": "amzn1.dv.gti.3ae6acf0-0166-4540-958f-58494cabc7ca"
-  },
-  "Amazon.US.France24ES": {
-    "name": "France24 ES",
-    "id": "amzn1.dv.gti.fdc363a6-811f-49a6-82d4-33e588fa02f3"
-  },
-  "Amazon.US.France24FR": {
-    "name": "France24 FR",
-    "id": "amzn1.dv.gti.5a5647f2-a649-4300-8b28-e3022bb773cb"
-  },
-  "Amazon.US.MLBNetwork": {
-    "name": "MLB Network",
-    "id": "amzn1.dv.gti.4df07d23-54fa-4bee-8d95-b96480800216"
-  },
-  "Amazon.US.MLFandBassChannel": {
-    "name": "MLF and Bass Channel",
-    "id": "amzn1.dv.gti.c2739131-85f8-4014-bf63-54e074956555"
-  },
-  "Amazon.US.HuntStream": {
-    "name": "HuntStream",
-    "id": "amzn1.dv.gti.c86668e7-d5bb-4d66-8992-a931cd99ebeb"
-  },
-  "Amazon.US.NBATVHDTV": {
-    "name": "NBA TV HDTV",
-    "id": "amzn1.dv.gti.eebae9c5-883f-c79f-abc6-092683038e6d"
+  "Amazon.US.MGMPlusHITS": {
+    "name": "MGM+ HITS",
+    "id": "amzn1.dv.gti.b4bb6f97-38fc-ed66-6660-c71e04e0a99b"
   },
   "Amazon.US.HBODrama": {
     "name": "HBO Drama",
@@ -154,6 +126,34 @@
   "Amazon.US.HBOLatino": {
     "name": "HBO Latino",
     "id": "amzn1.dv.gti.0bcf0a87-ebbc-4f0c-9e83-6b4f9bfda936"
+  },
+  "Amazon.US.MLBNetwork": {
+    "name": "MLB Network",
+    "id": "amzn1.dv.gti.4df07d23-54fa-4bee-8d95-b96480800216"
+  },
+  "Amazon.US.MLFandBassChannel": {
+    "name": "MLF and Bass Channel",
+    "id": "amzn1.dv.gti.c2739131-85f8-4014-bf63-54e074956555"
+  },
+  "Amazon.US.HuntStream": {
+    "name": "HuntStream",
+    "id": "amzn1.dv.gti.c86668e7-d5bb-4d66-8992-a931cd99ebeb"
+  },
+  "Amazon.US.NBATVHDTV": {
+    "name": "NBA TV HDTV",
+    "id": "amzn1.dv.gti.eebae9c5-883f-c79f-abc6-092683038e6d"
+  },
+  "Amazon.US.France24EN": {
+    "name": "France24 EN",
+    "id": "amzn1.dv.gti.3ae6acf0-0166-4540-958f-58494cabc7ca"
+  },
+  "Amazon.US.France24ES": {
+    "name": "France24 ES",
+    "id": "amzn1.dv.gti.fdc363a6-811f-49a6-82d4-33e588fa02f3"
+  },
+  "Amazon.US.France24FR": {
+    "name": "France24 FR",
+    "id": "amzn1.dv.gti.5a5647f2-a649-4300-8b28-e3022bb773cb"
   },
   "Amazon.US.Showtime": {
     "name": "Showtime",
@@ -4442,18 +4442,6 @@
   "Amazon.US.NBCNorthPlatteNewsKNOP": {
     "name": "NBC North Platte News (KNOP)",
     "id": "amzn1.dv.gti.f86a44ee-de5b-4220-9580-c58299606653"
-  },
-  "Amazon.US.NBCParkersburgNewsWTAP": {
-    "name": "NBC Parkersburg News (WTAP)",
-    "id": "amzn1.dv.gti.5274f201-4a3a-4f9d-a3f2-d6548a167893"
-  },
-  "Amazon.US.NBCRochesterMasonCityAustinNewsKTTC": {
-    "name": "NBC Rochester-Mason City-Austin News (KTTC)",
-    "id": "amzn1.dv.gti.ebd30f4e-3023-4ebc-baaa-869c3ecd3c3e"
-  },
-  "Amazon.US.NBCABCLaredoNewsKGNS": {
-    "name": "NBC/ABC Laredo News (KGNS)",
-    "id": "amzn1.dv.gti.4a36b7ab-4cc3-4fbf-bb48-76c13bfe215f"
   },
   "Amazon.US.NBCCBSAlexandriaLANewsKALB": {
     "name": "NBC/CBS Alexandria, LA News (KALB)",
